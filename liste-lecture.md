@@ -10,7 +10,7 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 
 ## Copyrigth
 
-[Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf):
+[Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, Janvier 2025):
 Grâce aux communications internes de Meta, obtenues dans le cadre d'un procès concernant les données d'entrainement de son IA,
 il apparait que Meta a utilisé la plus grande base de donnée de livres piratés (LibGen) pour entrainer son IA.
 
@@ -31,7 +31,8 @@ Peut-être que la notion de propriété intellectuelle n'est pas adaptée au con
 > We need to consider these rules now and work immediately toward a new intellectual property framework
 
 Cette question a une grande importance, les IA génératives peuvent générer de la propriété intellectuelle plus rapidement que jamais, et d'après une étude de 2010,
-"The value of intellectual property exceeds 65% for Fortune 500 companies and exceeds 90% for certain technology-based companies within the list" (cité depuis [The Value of Intellectual Property](https://www.heerlaw.com/value-intellectual-property)
+"The value of intellectual property exceeds 65% for Fortune 500 companies and exceeds 90% for certain technology-based companies within the list"
+(cité depuis [The Value of Intellectual Property](https://www.heerlaw.com/value-intellectual-property)).
 
 ## Travail caché
 
