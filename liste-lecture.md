@@ -1,3 +1,9 @@
+## Qu'est-ce que l'IA?
+
+[What is AI?](https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/) (MIT Technology Review, Juillet 2024):
+Un long article pour présenter les points de vues très différents que des expert·es ont sur ce qu'est l'IA.
+Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondamentaux et qu'ils reflettent d'avantage des différences d'idéologies que de maitrise du sujet.
+
 ## Utilisation
 
 19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/)
