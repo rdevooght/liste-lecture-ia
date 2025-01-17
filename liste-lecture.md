@@ -1,8 +1,18 @@
 ## Utilisation
 
-19% des français utilise chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/)
+19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/)
 
 ## Copyrigth
+
+[To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, Décembre 2024):
+A qui appartient le contenu généré par une IA? Les dévellopeurs, les entreprises, les utilisateurs, les IA elles-mêmes, tout le monde?
+Peut-être que la notion de propriété intellectuelle n'est pas adaptée au contenu généré par une IA.
+
+> we can’t afford to wait for all the money and power to accrue to Silicon Valley and then get together to have a big think about redistributing.
+> We need to consider these rules now and work immediately toward a new intellectual property framework
+
+Cette question a une grande importance, les IA génératives peuvent générer de la propriété intellectuelle plus rapidement que jamais, et d'après une étude de 2010,
+"The value of intellectual property exceeds 65% for Fortune 500 companies and exceeds 90% for certain technology-based companies within the list" (cité depuis [The Value of Intellectual Property](https://www.heerlaw.com/value-intellectual-property)
 
 ## Travail caché
 
