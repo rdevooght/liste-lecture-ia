@@ -1,7 +1,20 @@
 footer {
-    background-color: var(--pico-color);
+    background-color: var(--pico-background-color);
+    position: relative;
 }
 
-footer p {
-    color: var(--pico-background-color);
+footer::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    height: 1px;
+    width: 50%;
+    transform: translateX(-50%) translateY(-1px);
+    background-color: #ffffff;
 }
+
+/* footer p {
+    color: var(--pico-background-color);
+} */
