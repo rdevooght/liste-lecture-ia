@@ -9,12 +9,62 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="color-scheme" content="light dark" />
         <link rel="stylesheet" href="static/pico.jade.min.css" />
+        <link rel="stylesheet" href="static/style.css" />
     </head>
 
     <body>
         <main class="container">
-            <h1>IA: ma liste de lecture</h1>
+            <h1>IA: une liste de lecture</h1>
             {{liste-lecture.md}}
         </main>
+        <footer>
+            <div class="container">
+                <p>
+                    Notes compilées par
+                    <a href="https://blog.robindevooght.be/">Robin Devooght</a>
+                    <a
+                        aria-label="Flux RSS"
+                        class="ml-2 inline-block text-gray-700 hover:text-orange-400 active:text-orange-400"
+                        href="https://blog.robindevooght.be/rss.xml"
+                        ><svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="15"
+                            height="15"
+                            fill="currentColor"
+                            viewBox="0 0 16 16"
+                        >
+                            <path
+                                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2zm0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2zm.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
+                            /></svg
+                    ></a>
+                </p>
+                <p>
+                    Vous pouvez me contacter à robin.devooght[at]mailo.com, ou
+                    explorer mes autres projets sur
+                    <a
+                        href="https://blog.robindevooght.be/posts/search-inflation/"
+                        >l’inflation</a
+                    >, sur le
+                    <a
+                        href="https://blog.robindevooght.be/posts/chambre_des_representant-es/"
+                        >temps de parole</a
+                    >
+                    au
+                    <a
+                        href="https://blog.robindevooght.be/posts/genre_au_parlement_wallon/"
+                        >parlement wallon</a
+                    >
+                    et à la
+                    <a
+                        href="https://blog.robindevooght.be/posts/chambre_des_representant-es/"
+                        >Chambre</a
+                    >, ou sur
+                    <a
+                        href="https://blog.robindevooght.be/genre_et_listes_electorales/"
+                        >la place des femmes dans les listes électorales</a
+                    >.
+                </p>
+            </div>
+        </footer>
     </body>
 </html>

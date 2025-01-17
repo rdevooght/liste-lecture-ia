@@ -1,0 +1,7 @@
+footer {
+    background-color: var(--pico-color);
+}
+
+footer p {
+    color: var(--pico-background-color);
+}
