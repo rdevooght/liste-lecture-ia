@@ -50,3 +50,26 @@ Derrière un chatbot pour une agence immobilière se cachaient 60 personnes qui 
 ## Halucinations
 
 ## Capacités
+
+## Sécurité & Alignement
+Quand les developpeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
+C'est à dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
+Plus on donnera de capacité aux IA d'effectuer des actions et de prendre des décisions ayant un impact réel, plus ce risque sera important.
+Malheureusement, il semble que plus les IA deviennent performantes, plus il est compliqué de comprendre comment elles fonctionnent et donc de s'assurer qu'elles sont alignées.
+
+[AI Safety for Fleshy Humans](https://aisafety.dance) (Nicky Case & Hack Club):
+Long article (encore en cours d'écriture) sur les risques liés à l'allignement de l'IA.
+
+[o1 et Claude sont-ils capablent de nous manipuler](https://www.youtube.com/watch?v=cw9wcNKDOtQ) (Monsieur Phi, Décembre 2024):
+Vidéo vilgarisant les résultats des deux articles suivants:
+
+- [Frontier Models are Capable of In-context Scheming](https://static1.squarespace.com/static/6593e7097565990e65c886fd/t/67869dea6418796241490cf0/1736875562390/in_context_scheming_paper_v2.pdf) ([synthèse](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations))
+- [Alignment faking in large language models](https://arxiv.org/pdf/2412.14093) ([synthèse](https://www.anthropic.com/research/alignment-faking))
+
+Ces articles observent que Les LLMs actuels montrent des comportement problématiques quand mis face à des objectifs contradictoires. Par exemple:
+- Sandbagging: l'IA bride ses capacités quand ont indique que des capacitées plus élevées meneront à un réentrainement
+- Alignment faking: l'IA répond de manière différente dans un environnement de test que dans un environnement de production
+
+### Critique du problème d'alignement
+De nombreuses personnes critiques de l'IA considèrent que le problème d'alignement est une diversion
+qui nous empêche de parler des problèmes actuels liés aux IA, et qui véhicule l'idée que les IA "superintéligentes" sont imminentes, ce qui est très controversé.
