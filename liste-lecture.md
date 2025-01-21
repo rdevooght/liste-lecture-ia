@@ -10,7 +10,13 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 
 ## Copyrigth
 
-[Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, Janvier 2025):
+<details>
+<summary>
+  
+  [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, Janvier 2025)
+  
+</summary>
+
 Grâce aux communications internes de Meta, obtenues dans le cadre d'un procès concernant les données d'entrainement de son IA,
 il apparait que Meta a utilisé la plus grande base de donnée de livres piratés (LibGen) pour entrainer son IA.
 
@@ -22,6 +28,7 @@ Tout cela avec la validation de Mark Zuckerberg.
 
 > memo to Meta’s AI decision-makers noting that after “escalation to MZ,” Meta’s AI team “has been approved to use LibGen”
 
+</details>
 
 [To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, Décembre 2024):
 A qui appartient le contenu généré par une IA? Les dévellopeurs, les entreprises, les utilisateurs, les IA elles-mêmes, tout le monde?
