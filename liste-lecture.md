@@ -88,6 +88,7 @@ Vidéo vulgarisant les résultats des deux articles suivants:
 - [Alignment faking in large language models](https://arxiv.org/pdf/2412.14093) ([synthèse](https://www.anthropic.com/research/alignment-faking))
 
 Ces articles observent que Les LLMs actuels montrent des comportement problématiques quand mis face à des objectifs contradictoires. Par exemple:
+
 - Sandbagging: l'IA bride ses capacités quand on indique que des capacitées plus élevées mèneront à un réentrainement
 - Alignment faking: l'IA répond de manière différente dans un environnement de test que dans un environnement de production
 
