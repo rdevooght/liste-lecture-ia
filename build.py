@@ -29,7 +29,7 @@ def convert_markdown_to_html(md_path: str) -> str:
         md_content = f.read()
 
     # Convert markdown to HTML
-    html_content = markdown.markdown(md_content)
+    html_content = markdown.markdown(md_content, extensions=['smarty', 'md_in_html'])
     return html_content
 
 def process_html_file(src_path: str, dest_dir: str) -> None:

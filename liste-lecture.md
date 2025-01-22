@@ -10,13 +10,7 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 
 ## Copyrigth
 
-<details>
-<summary>
-  
-  [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, Janvier 2025)
-  
-</summary>
-
+[Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
 Grâce aux communications internes de Meta, obtenues dans le cadre d'un procès concernant les données d'entrainement de son IA,
 il apparait que Meta a utilisé la plus grande base de donnée de livres piratés (LibGen) pour entrainer son IA.
 
@@ -30,7 +24,7 @@ Tout cela avec la validation de Mark Zuckerberg.
 
 </details>
 
-[To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, Décembre 2024):
+[To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, décembre 2024):
 A qui appartient le contenu généré par une IA? Les dévellopeurs, les entreprises, les utilisateurs, les IA elles-mêmes, tout le monde?
 Peut-être que la notion de propriété intellectuelle n'est pas adaptée au contenu généré par une IA.
 
@@ -46,13 +40,27 @@ Cette question a une grande importance, les IA génératives peuvent générer d
 Sur le travail d'annotation:
 
 - [AI Is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots) (The Verge, juin 2023)
-- [OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/) (Time, Janvier 2023)
+- [OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/) (Time, janvier 2023)
 
 [Becoming a chatbot](https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup)
 (The Guardian, décembre 2022):
 Derrière un chatbot pour une agence immobilière se cachaient 60 personnes qui relisaient les réponses du chatbot et prennaient le relais quand nécessaire.
 
 ## Impacts environnementaux
+
+### Electricity use
+
+[Powering Artificial Intelligence](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf) (Deloitte, novembre 2024):
+Deloitte estime que la consomation électrique liée à l'IA a augmenté de 47% par an entre 2020 et 2023, et devrait continuer à augmenter de 28% à 44% par an pendant les années à venir.
+
+
+[Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) (The Guardian, septembre 2024):
+Les déclarations des GAFAM sur leur empreinte carbone sont trompeuses car elles se base sur l'achat massif de certificats verts pour compenser leur émissions réeles.
+Les emissions réelles de leurs data centers sont beaucoup plus élevées: probablement 3x plus pour google, 21x plus pour Microsoft et 3000x plus pour Meta.
+On parle ici de toutes les activités des data centers, pas seulement celles liées à l'IA.
+
+[AI needs so much power, it's making yours worse](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/) (Bloomberg, décembre 2024):
+Les data centers semblent créer des distortions sur le réseau électrique environnant (en ajoutant des harmoniques sur le courant alternatif), ce qui peut endommager les appareils électriques des habitants.
 
 ## Halucinations
 
@@ -67,7 +75,7 @@ Malheureusement, il semble que plus les IA deviennent performantes, plus il est 
 [AI Safety for Fleshy Humans](https://aisafety.dance) (Nicky Case & Hack Club):
 Long article (encore en cours d'écriture) sur les risques liés à l'allignement de l'IA.
 
-[o1 et Claude sont-ils capablent de nous manipuler](https://www.youtube.com/watch?v=cw9wcNKDOtQ) (Monsieur Phi, Décembre 2024):
+[o1 et Claude sont-ils capablent de nous manipuler](https://www.youtube.com/watch?v=cw9wcNKDOtQ) (Monsieur Phi, décembre 2024):
 Vidéo vilgarisant les résultats des deux articles suivants:
 
 - [Frontier Models are Capable of In-context Scheming](https://static1.squarespace.com/static/6593e7097565990e65c886fd/t/67869dea6418796241490cf0/1736875562390/in_context_scheming_paper_v2.pdf) ([synthèse](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations))
