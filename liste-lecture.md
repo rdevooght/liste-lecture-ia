@@ -12,6 +12,10 @@ Les belges sont moins optimistes que la moyenne par rapport à l'IA:
 41% des belges pensent que l'IA aura un impact positif sur leur vie, contre 61% en moyenne dans le monde.
 ([Global opinions and expectations about AI](https://www.ipsos.com/sites/default/files/ct/news/documents/2022-01/Global-opinions-and-expectations-about-AI-2022.pdf), enquête Ipsos, janvier 2022)
 
+Il semble que mieux connaître le fonctionnement des IA ferait qu'on l'utilise moins
+([The Conversation](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372), janvier 2025).
+Un résultat surprenant, et je n'ai pas accès à l'article original pour en savoir plus.
+
 ## Copyrigth
 
 [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
