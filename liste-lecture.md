@@ -54,7 +54,7 @@ Derrière un chatbot pour une agence immobilière se cachaient 60 personnes qui 
 
 ## Impacts environnementaux
 
-### Electricity use
+### Consommation électrique
 
 [Powering Artificial Intelligence](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf) (Deloitte, novembre 2024):
 Deloitte estime que la consommation électrique liée à l'IA a augmenté de 47% par an entre 2020 et 2023, et devrait continuer à augmenter de 28% à 44% par an pendant les années à venir.
