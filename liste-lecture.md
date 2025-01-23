@@ -80,6 +80,9 @@ L'ancien CEO de google le dit clairement:
 
 ## Capacités
 
+[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
+Un bon apperçu de l'évolution des LLMs en 2024 par Simon Willison.
+
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
 C'est à dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
