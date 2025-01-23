@@ -10,6 +10,7 @@
             name="description"
             content="Une sélection d'articles et de notes sur l'IA"
         />
+        <meta property="og:image" content="static/banner.jpg" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="color-scheme" content="light dark" />
@@ -18,10 +19,13 @@
     </head>
 
     <body>
+        <header></header>
         <main class="container">
             <hgroup>
                 <h1>IA: une liste de lecture</h1>
-                <p>Dernière mise à jour: {{get_today.py}}</p>
+                <div>
+                    <p>Dernière mise à jour: {{get_today.py}}</p>
+                </div>
             </hgroup>
             {{liste-lecture.md}}
         </main>
@@ -71,6 +75,18 @@
                         href="https://blog.robindevooght.be/genre_et_listes_electorales/"
                         >la place des femmes dans les listes électorales</a
                     >.
+                </p>
+                <p>
+                    Photo de couverture:
+                    <a
+                        href="https://unsplash.com/@tvick?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+                        >Taylor Vick</a
+                    >
+                    via
+                    <a
+                        href="https://unsplash.com/photos/cable-network-M5tzZtFCOfs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+                        >Unsplash</a
+                    >
                 </p>
             </div>
         </footer>
