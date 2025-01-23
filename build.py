@@ -7,14 +7,14 @@ from pathlib import Path
 import markdown
 from typing import List, Tuple
 
-def find_markdown_patterns(content: str) -> List[Tuple[str, str]]:
+def find_replace_patterns(content: str) -> List[Tuple[str, str, str]]:
     """
-    Find all markdown file references in the format {{ path_to_file.md }}
-    Returns list of tuples (full_pattern, markdown_path)
+    Find all file references in the format {{ path_to_file.ext }}
+    Returns list of tuples (full_pattern, path, ext)
     """
-    pattern = r'\{\{\s*([^\}]+\.md)\s*\}\}'
+    pattern = r'\{\{\s*([^\}]+\.(md|py|html))\s*\}\}'
     matches = re.finditer(pattern, content)
-    return [(match.group(0), match.group(1).strip()) for match in matches]
+    return [(match.group(0), match.group(1).strip(), match.group(2).strip()) for match in matches]
 
 def convert_markdown_to_html(md_path: str) -> str:
     """
@@ -32,6 +32,32 @@ def convert_markdown_to_html(md_path: str) -> str:
     html_content = markdown.markdown(md_content, extensions=['smarty', 'md_in_html'])
     return html_content
 
+def insert_python_output(py_path: str) -> str:
+    """
+    Execute python file and capture its output
+    """
+    if not os.path.exists(py_path):
+        print(f"Warning: Python file not found: {py_path}")
+        return ""
+
+    # Execute the python file
+    output = os.popen(f"python {py_path}").read()
+    return output
+
+def insert_html(html_path: str) -> str:
+    """
+    Copy the content of an HTML file
+    """
+
+    if not os.path.exists(html_path):
+        print(f"Warning: HTML file not found: {html_path}")
+        return ""
+
+    with open(html_path, 'r', encoding='utf-8') as f:
+        html_content = f.read()
+
+    return html_content
+
 def process_html_file(src_path: str, dest_dir: str) -> None:
     """
     Process a single HTML file, replacing markdown references with HTML content
@@ -41,12 +67,18 @@ def process_html_file(src_path: str, dest_dir: str) -> None:
         content = f.read()
 
     # Find all markdown patterns
-    patterns = find_markdown_patterns(content)
+    patterns = find_replace_patterns(content)
+
+    ext_parser = {
+        "md": convert_markdown_to_html,
+        "py": insert_python_output,
+        "html": insert_html
+    }
 
     # Process each pattern
-    for full_pattern, md_path in patterns:
+    for full_pattern, path, ext in patterns:
         # Convert markdown to HTML
-        html_content = convert_markdown_to_html(md_path)
+        html_content = ext_parser[ext](path)
         # Replace the pattern with HTML content
         content = content.replace(full_pattern, html_content)
 
