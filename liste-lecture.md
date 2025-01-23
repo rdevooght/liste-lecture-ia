@@ -1,4 +1,4 @@
-Cette page à vocation à évoluer au fil de mes lectures.
+Cette page a vocation à évoluer au fil de mes lectures.
 C'est avant tout une manière pour moi de garder une trace d'articles intéressants,
 et j'espère que cela peut être utile à d'autres pour se faire un apperçu de ce sujet complexe.
 
