@@ -80,6 +80,19 @@ L'ancien CEO de google le dit clairement:
 
 ## Capacités
 
+## Surveillance
+
+[L’Oracle de l’Empire](https://legrandcontinent.eu/fr/2025/01/24/dominer-la-societe-avec-lia-la-face-cachee-du-projet-stargate-x/) (Le Grand Continent, janvier 2025):
+Dans un discours à propos du projet Stargate (100 milliard d'investissement dans les data centers IA aux US), Larry Ellison (fondateur d'Oracle, un des hommes les plus riches du monde) annonce vouloir filmer tout le monde en permanence et tout analyser via de l'IA: 
+
+> Nos caméras, ce sont simplement deux objectifs fixés à votre veste et liés à votre smartphone, le tout directement sur votre corps.
+> La caméra est toujours allumée.
+> Vous ne pouvez pas l’éteindre. 
+
+> Les citoyens aussi se comporteront mieux car nous enregistrons et rapportons tout ce qui se passe. Et c’est inévitable. Les voitures ont aussi des caméras.
+
+> Sans travail humain, pas de malveillance humaine, pas d’erreur humaine — et pas de coût humain.
+
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
 C'est à dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
