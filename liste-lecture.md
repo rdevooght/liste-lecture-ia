@@ -112,6 +112,7 @@ Dans un discours à propos du projet Stargate (100 milliard d'investissement dan
 
 > Sans travail humain, pas de malveillance humaine, pas d’erreur humaine — et pas de coût humain.
 
+En France aussi, comme dans la commune de Vernon, où le Maire dit à propos du déployement de caméra de surveillance couplées à de l'IA: "ça va nous aider face aux problèmes d’incivilités. Demain, une caméra pourrait détecter un mégot de cigarette jeté par terre. J’ai demandé à des prestataires de faire des propositions pour trouver le bon algorithme." ([source: Le Parisien, janvier 2025](https://www.leparisien.fr/eure-27/vernon-mise-sur-lintelligence-artificielle-pour-lutter-contre-les-incivilites-et-gagner-en-productivite-27-01-2025-YO6CHGD6XBGMDOIIOVBULFOSDQ.php))
 
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
