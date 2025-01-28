@@ -81,16 +81,28 @@ L'ancien CEO de google le dit clairement:
 ## Capacités
 
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
-Un bon apperçu de l'évolution des LLMs en 2024 par Simon Willison.
+Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
+
+De manière générale, le [blog de Simon Willison](https://simonwillison.net/tags/ai/) est une bonne source d'information sur les performances des LLMs.
+
+[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) (Stratechery, janvier 2025):
+DeepSeek est une famille de LLMs développés par une entreprise chinoise.
+Ce sont les premiers modèles "open-source" dont les performances égalent celles des modèles les plus performants de OpenAI et Anthropic
+(à l'exception probablement du modèle o3 d'OpenAI, qui n'est pour l'instant accessible qu'à une poignée de chercheurs·euses).
+Les interdictions d'export imposées par les US font que DeepSeek a été développé sur des GPUs d'ancienne génération.
+Cela a forcé les développeurs à de nombreuses innovations sur l'architecture des modèles et à un important travail d'optimisation ("an insane level of optimization" d'après Ben Thompson).
+Le résultat est un modèle non seulement très puissant, mais aussi beaucoup moins énergivore que les modèles concurrents, tant à l'entraînement qu'à l'inférence.
+
+D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
 
 ## Surveillance
 
 [L’Oracle de l’Empire](https://legrandcontinent.eu/fr/2025/01/24/dominer-la-societe-avec-lia-la-face-cachee-du-projet-stargate-x/) (Le Grand Continent, janvier 2025):
-Dans un discours à propos du projet Stargate (100 milliard d'investissement dans les data centers IA aux US), Larry Ellison (fondateur d'Oracle, un des hommes les plus riches du monde) annonce vouloir filmer tout le monde en permanence et tout analyser via de l'IA: 
+Dans un discours à propos du projet Stargate (100 milliard d'investissement dans les data centers IA aux US), Larry Ellison (fondateur d'Oracle, un des hommes les plus riches du monde) annonce vouloir filmer tout le monde en permanence et tout analyser via de l'IA:
 
 > Nos caméras, ce sont simplement deux objectifs fixés à votre veste et liés à votre smartphone, le tout directement sur votre corps.
 > La caméra est toujours allumée.
-> Vous ne pouvez pas l’éteindre. 
+> Vous ne pouvez pas l’éteindre.
 
 > Les citoyens aussi se comporteront mieux car nous enregistrons et rapportons tout ce qui se passe. Et c’est inévitable. Les voitures ont aussi des caméras.
 
