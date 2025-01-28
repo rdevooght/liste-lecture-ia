@@ -20,3 +20,8 @@ header {
     background-size: cover;
     height: 200px;
 }
+
+header nav li a {
+    font-size: 1.5em;
+    color: #ffffff;
+}
