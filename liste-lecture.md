@@ -45,6 +45,10 @@ Cette question a une grande importance, les IA génératives peuvent générer d
 "The value of intellectual property exceeds 65% for Fortune 500 companies and exceeds 90% for certain technology-based companies within the list"
 (cité depuis [The Value of Intellectual Property](https://www.heerlaw.com/value-intellectual-property)).
 
+[Every AI Copyright Lawsuit in the US](https://www.wired.com/story/ai-copyright-case-tracker/) (The Verge, décembre 2024)
+
+![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
+
 ## Travail caché
 
 Sur le travail d'annotation:
