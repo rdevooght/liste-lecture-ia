@@ -137,3 +137,24 @@ Ces articles observent que Les LLMs actuels montrent des comportement problémat
 ### Critique du problème d'alignement
 De nombreuses personnes critiques de l'IA considèrent que le problème d'alignement est une diversion
 qui nous empêche de parler des problèmes actuels liés aux IA, et qui véhicule l'idée que les IA "superintelligentes" sont imminentes, ce qui est très controversé.
+
+### ADMS
+
+Cette liste de lecture se concentre surtout sur l'IA générative et en particulier les LLMs,
+mais il me semble important de parler aussi des systèmes de décision automatisée (ADMS, pour Automated Decision Making Systems).
+
+Quand on parle d'ADMS, on ne s'intéresse pas vraiment à comment fonctionne le système (quel algorithme),
+mais plutôt à ses conséquences.
+Par exemple, un algorithme qui identifie des déclarations fiscales à contrôler en priorité est un ADMS, qu'il soit basé sur des règles simples ou un modèle de deep learning.
+
+Les ADMS sont de plus en plus couramment utilisés, et leur conséquences peuvent être très importantes,
+en particulier quand elles sont déployées dans des services publics.
+Ces dernières années ont déjà montré plusieurs échecs de ces systèmes, qui ont souvent mené à des pertes de droits pour des personnes déjà précaires.
+Pourtant, ces systèmes continuent à être déployés.
+
+Quelques exemples:
+
+- A retrouver: le scandale des allocations aux pays-bas
+- A retrouver: le système de score de récidive aux US
+- (l’assurance-maladie coupe dans les indemnités de milliers d’usagers)[https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers] (Mediapart, janvier 2025):
+En France, un nouveau système automatique de paiement des indemnités de l'assurance-maladie testé dans quelques départements dysfonctionne et des milliers de personnes se retrouvent sans indemnités depuis plusieurs mois.
