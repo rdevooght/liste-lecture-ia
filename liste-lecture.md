@@ -99,6 +99,14 @@ Le résultat est un modèle non seulement très puissant, mais aussi beaucoup mo
 
 D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
 
+[Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
+Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
+La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux: 
+le programme n'a su compléter que 3 des 20 tâches demandées.
+
+> Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
+> Tasks that seemed similar to our early successes would fail in unexpected ways.
+
 ## Surveillance
 
 [L’Oracle de l’Empire](https://legrandcontinent.eu/fr/2025/01/24/dominer-la-societe-avec-lia-la-face-cachee-du-projet-stargate-x/) (Le Grand Continent, janvier 2025):
