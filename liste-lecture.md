@@ -20,6 +20,12 @@ Il semble que mieux connaître le fonctionnement des IA ferait qu'on l'utilise m
 ([The Conversation](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372), janvier 2025).
 Un résultat surprenant, et je n'ai pas accès à l'article original pour en savoir plus.
 
+Une étude de Microsoft research montre que les personnes qui utilisent plus d'IA générative
+ont le sentiment de moins utiliser leur esprit critique et d'être moins capable d'évaluer la qualité du résultat de l'IA par eux-mêmes.
+Source: [L'étude originale](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf),
+et [Un article de 404media](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/).
+L'étude se base uniquement sur des questionnaires où les participant.es évaluent leur propre utilisation de l'IA et leur esprit critique.
+
 ## Copyrigth
 
 [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
@@ -101,7 +107,7 @@ D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données
 
 [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
 Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
-La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux: 
+La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux:
 le programme n'a su compléter que 3 des 20 tâches demandées.
 
 > Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
