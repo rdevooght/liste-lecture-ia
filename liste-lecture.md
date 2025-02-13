@@ -1,6 +1,6 @@
 Cette page a vocation à évoluer au fil de mes lectures.
 C'est avant tout une manière pour moi de garder une trace d'articles intéressants,
-et j'espère que cela peut être utile à d'autres pour se faire un apperçu de ce sujet complexe.
+et j'espère que cela peut être utile à d'autres pour se faire un aperçu de ce sujet complexe.
 
 ## Qu'est-ce que l'IA?
 
@@ -21,7 +21,7 @@ Il semble que mieux connaître le fonctionnement des IA ferait qu'on l'utilise m
 Un résultat surprenant, et je n'ai pas accès à l'article original pour en savoir plus.
 
 Une étude de Microsoft research montre que les personnes qui utilisent plus d'IA générative
-ont le sentiment de moins utiliser leur esprit critique et d'être moins capable d'évaluer la qualité du résultat de l'IA par eux-mêmes.
+ont le sentiment de moins utiliser leur esprit critique et d'être moins capables d'évaluer la qualité du résultat de l'IA par eux-mêmes.
 Source: [L'étude originale](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf),
 et [Un article de 404media](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/).
 L'étude se base uniquement sur des questionnaires où les participant.es évaluent leur propre utilisation de l'IA et leur esprit critique.
@@ -87,6 +87,12 @@ L'ancien CEO de google le dit clairement:
 (Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024)
 
 ## Hallucinations
+
+[L'IA invente des citations](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf) (BBC, janvier 2025):
+Bien qu'il y ait un conflit d'intérêt évident, cette étude de la BBC est intéressante.
+45 journalistes de la BBC ont évalué 362 réponses de ChatGPT, Copilot, Gemini et Perplexity.
+Les questions portaient sur l'actualité et demandaient d'utiliser la BBC comme source de préférence.
+19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées.
 
 ## Capacités
 
