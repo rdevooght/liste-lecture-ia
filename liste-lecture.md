@@ -179,7 +179,9 @@ Pourtant, ces systèmes continuent à être déployés.
 
 Quelques exemples:
 
-- A retrouver: le scandale des allocations aux pays-bas
+- Entre 2014 et 2020, des milliers de familles néérlandaises ont été accusées de fraude par un système automatisé et ont perdu leur allocations familiales.
+  Cela a fait [tomber le gouvernement en 2021](https://www.rtbf.be/article/crise-politique-aux-pays-bas-demission-du-premier-ministre-mark-rutte-10674533).
+  4 ans plus tard, la [plupart des familles n'ont pas encore été dédommagées](https://www.lemonde.fr/international/article/2025/01/09/aux-pays-bas-le-cout-d-un-scandale-sur-les-allocations-familiales-qui-engorge-les-tribunaux_6489882_3210.html).
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (Propublica, mai 2016):
   Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires.
 - [l’assurance-maladie coupe dans les indemnités de milliers d’usagers](https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers) (Mediapart, janvier 2025):
