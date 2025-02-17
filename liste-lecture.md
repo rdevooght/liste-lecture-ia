@@ -26,6 +26,11 @@ Source: [L'étude originale](https://www.microsoft.com/en-us/research/uploads/pr
 et [Un article de 404media](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/).
 L'étude se base uniquement sur des questionnaires où les participant.es évaluent leur propre utilisation de l'IA et leur esprit critique.
 
+D'après [Anthropic](https://www.anthropic.com/news/the-anthropic-economic-index) (janvier 2025), 37% de l'utilisation professionnelle de leur LLM se fait dans le domaine de l'informatique, 10% dans le domaine des arts & media et 9% dans le domaine de l'éducation:
+
+![Graphique comparant, par domaine d'activité professionnelle aux US, le pourcentage de personnes travaillant dans ce secteur et le pourcentage de requêtes faites au LLM Claude liées à ce secteur](static/claude_usage.webp)
+
+
 ## Copyrigth
 
 [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
