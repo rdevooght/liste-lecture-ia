@@ -180,6 +180,7 @@ Pourtant, ces systèmes continuent à être déployés.
 Quelques exemples:
 
 - A retrouver: le scandale des allocations aux pays-bas
-- A retrouver: le système de score de récidive aux US
-- (l’assurance-maladie coupe dans les indemnités de milliers d’usagers)[https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers] (Mediapart, janvier 2025):
+- [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (Propublica, mai 2016):
+  Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires.
+- [l’assurance-maladie coupe dans les indemnités de milliers d’usagers](https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers) (Mediapart, janvier 2025):
 En France, un nouveau système automatique de paiement des indemnités de l'assurance-maladie testé dans quelques départements dysfonctionne et des milliers de personnes se retrouvent sans indemnités depuis plusieurs mois.
