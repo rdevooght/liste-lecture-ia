@@ -99,6 +99,8 @@ Bien qu'il y ait un conflit d'intérêt évident, cette étude de la BBC est int
 Les questions portaient sur l'actualité et demandaient d'utiliser la BBC comme source de préférence.
 19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées.
 
+Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées suicidaires vers une ligne de prévention du suicide, mais hallucine de faux numéros de téléphone ([Futurism, février 2025](https://futurism.com/amazon-ai-suicide-hotline)).
+
 ## Capacités
 
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
