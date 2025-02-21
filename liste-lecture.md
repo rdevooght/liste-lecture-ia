@@ -93,6 +93,20 @@ L'ancien CEO de google le dit clairement:
 
 ## Hallucinations
 
+Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
+Cette approche produit des textes vraisemblables, mais qui ne sont pas toujours factuellement corrects.
+On parle alors d'hallucinations.
+D'après certain•es chercheur•ses, ces hallucinations sont inévitables ([LLMs Will Always Hallucinate, and We Need to Live
+With This](https://arxiv.org/pdf/2409.05746), septembre 2024).
+
+Voici quelques exemples d'hallucinations et des problèmes qu'elles posent:
+
+[AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) (AP, octobre 2024):
+Des hopitaux aux US utilisent un outil de transcription automatique pour garder une trace écrite des consultations.
+Cet outil, basé sur le modèle Whispers d'OpenAI, invente parfois des phrases entières.
+De plus, l'audio original est supprimé pour des raisons de confidentialité, ce qui rend impossible de vérifier la véracité des transcriptions.
+
+
 [L'IA invente des citations](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf) (BBC, janvier 2025):
 Bien qu'il y ait un conflit d'intérêt évident, cette étude de la BBC est intéressante.
 45 journalistes de la BBC ont évalué 362 réponses de ChatGPT, Copilot, Gemini et Perplexity.
