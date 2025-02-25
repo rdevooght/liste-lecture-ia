@@ -10,7 +10,10 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 
 ## Utilisation
 
-19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/)
+19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/).
+En février 2025, OpenAI annonce avoir 400 millions d'utilisateurs par semaine (source: [Reuters](https://www.reuters.com/technology/artificial-intelligence/openais-weekly-active-users-surpass-400-million-2025-02-20/)).
+
+OpenAI/chatGPT a probablement plus d'utilisateurs qui tous les autres LLMs combinés ([Edward Zitron](https://www.wheresyoured.at/wheres-the-money/), février 2025).
 
 Les belges sont moins optimistes que la moyenne par rapport à l'IA:
 41% des belges pensent que l'IA aura un impact positif sur leur vie, contre 61% en moyenne dans le monde.
@@ -80,7 +83,7 @@ Deloitte estime que la consommation électrique liée à l'IA a augmenté de 47%
 
 [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) (The Guardian, septembre 2024):
 Les déclarations des GAFAM sur leur empreinte carbone sont trompeuses car elles se basent sur l'achat massif de certificats verts pour compenser leur émissions réelles.
-Les emissions réelles de leurs data centers sont beaucoup plus élevées: probablement 3x plus pour Google, 21x plus pour Microsoft et 3000x plus pour Meta.
+Les émissions réelles de leurs data centers sont beaucoup plus élevées: probablement 3x plus pour Google, 21x plus pour Microsoft et 3000x plus pour Meta.
 On parle ici de toutes les activités des data centers, pas seulement celles liées à l'IA.
 
 [AI needs so much power, it's making yours worse](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/) (Bloomberg, décembre 2024):
@@ -90,6 +93,16 @@ Ce ne sont pas les impacts environnementaux qui vont freiner les géants de l'IA
 L'ancien CEO de google le dit clairement:
 "We're not going to hit the climate goals anyway because we're not organized to do it [...] I'd rather bet on AI solving the problem, than constraining it and having the problem."
 (Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024)
+
+### Consommation d'eau
+
+Le sujet de la consommation d'eau est complexe.
+Les data centers utilisent en effet beaucoup d'eau pour refroidir les serveurs, mais l'impact de cette consommation va dépendre de la région, de la source de l'eau, de ce qu'elle devient après utilisation (relachée à plus haute température, évaporée ?), etc.
+
+Cela dit, dans certains cas les data centers semblent avoir un impact direct sur l'accès à l'eau dans la région.
+Par exemple à Colón, au Mexique, une zone semi-aride où Microsoft, Google et Amazon construisent des data centers grâce aux aides de la région.
+Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d'eau de la commune, alors que les fermiers de la région ont perdu leurs récoltes à cause de sécheresses successives.
+([Thirsty data centres spring up in water-poor Mexican town](https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town), Context, septembre 2024)
 
 ## Hallucinations
 
@@ -102,7 +115,7 @@ With This](https://arxiv.org/pdf/2409.05746), septembre 2024).
 Voici quelques exemples d'hallucinations et des problèmes qu'elles posent:
 
 [AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) (AP, octobre 2024):
-Des hopitaux aux US utilisent un outil de transcription automatique pour garder une trace écrite des consultations.
+Des hôpitaux aux US utilisent un outil de transcription automatique pour garder une trace écrite des consultations.
 Cet outil, basé sur le modèle Whispers d'OpenAI, invente parfois des phrases entières.
 De plus, l'audio original est supprimé pour des raisons de confidentialité, ce qui rend impossible de vérifier la véracité des transcriptions.
 
@@ -153,7 +166,16 @@ Dans un discours à propos du projet Stargate (100 milliard d'investissement dan
 
 > Sans travail humain, pas de malveillance humaine, pas d’erreur humaine — et pas de coût humain.
 
-En France aussi, comme dans la commune de Vernon, où le Maire dit à propos du déployement de caméra de surveillance couplées à de l'IA: "ça va nous aider face aux problèmes d’incivilités. Demain, une caméra pourrait détecter un mégot de cigarette jeté par terre. J’ai demandé à des prestataires de faire des propositions pour trouver le bon algorithme." ([source: Le Parisien, janvier 2025](https://www.leparisien.fr/eure-27/vernon-mise-sur-lintelligence-artificielle-pour-lutter-contre-les-incivilites-et-gagner-en-productivite-27-01-2025-YO6CHGD6XBGMDOIIOVBULFOSDQ.php))
+En Belgique, le nouveau gouvernement prévoit d'utiliser la reconaissance faciale et d'étendre les possibilités d'utilisation des caméras de surveillance ([Accord de coalition fédérale 2025-2029](https://www.belgium.be/sites/default/files/resources/publication/files/Accord_gouvernemental-Bart_De_Wever_fr.pdf), p145).
+C'est apparement la France apparement qui a poussé pour que ce genre de surveillance par IA soit autorisé en Europe ([Investigate Europe](https://www.investigate-europe.eu/fr/posts/france-spearheads-member-state-campaign-dilute-european-artificial-intelligence-regulation), janvier 2025).
+
+La commune de Vernon en France offre un exemple de discours sur les caméras de surveillance couplées à de l'IA. Le maire y tient ces propos: "ça va nous aider face aux problèmes d’incivilités. Demain, une caméra pourrait détecter un mégot de cigarette jeté par terre. J’ai demandé à des prestataires de faire des propositions pour trouver le bon algorithme." ([source: Le Parisien, janvier 2025](https://www.leparisien.fr/eure-27/vernon-mise-sur-lintelligence-artificielle-pour-lutter-contre-les-incivilites-et-gagner-en-productivite-27-01-2025-YO6CHGD6XBGMDOIIOVBULFOSDQ.php))
+
+A travers son API "Cloud Vision AI", Google propose de déterminer l'âge, l'orientation politique ou encore les centres d'intérêt d'une personne sur base d'une photo.
+On ne sait pas quelle est la précision de cet outil, mais on peut le tester soit-même sur [https://theyseeyourphotos.com/](https://theyseeyourphotos.com/).
+
+En février 2025, Google change ses principes de gouvernance pour s'autoriser à développer de l'IA dans le domaine de l'armement et de la surveillance ([Le monde](https://www.lemonde.fr/pixels/article/2025/02/05/google-assouplit-ses-principes-concernant-l-usage-de-l-ia-dans-l-armement-ou-la-surveillance_6532915_4408996.html)).
+
 
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
@@ -179,7 +201,13 @@ Ces articles observent que Les LLMs actuels montrent des comportement problémat
 De nombreuses personnes critiques de l'IA considèrent que le problème d'alignement est une diversion
 qui nous empêche de parler des problèmes actuels liés aux IA, et qui véhicule l'idée que les IA "superintelligentes" sont imminentes, ce qui est très controversé.
 
-### ADMS
+## Marché
+
+Les LLMs sont jusqu'à présent très loin d'être profitables.
+OpenAI a dépensé près de 9 milliards en 2024 et n'a généré que 3,7 milliards en revenus ([OpenAI Is Growing Fast and Burning Through Piles of Money](https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html), NYT, septembre 2024).
+Anthropic aurait de son côté [5,6 milliards de pertes](https://www.reuters.com/technology/anthropic-projects-soaring-growth-345-billion-2027-revenue-information-reports-2025-02-13/) et [moins d'un milliards de revenus](https://www.reuters.com/technology/anthropic-forecasts-more-than-850-mln-annualized-revenue-rate-by-2024-end-report-2023-12-26/) pour 2024 (source: Reuters).
+
+## ADMS
 
 Cette liste de lecture se concentre surtout sur l'IA générative et en particulier les LLMs,
 mais il me semble important de parler aussi des systèmes de décision automatisée (ADMS, pour Automated Decision Making Systems).
@@ -195,7 +223,7 @@ Pourtant, ces systèmes continuent à être déployés.
 
 Quelques exemples:
 
-- Entre 2014 et 2020, des milliers de familles néérlandaises ont été accusées de fraude par un système automatisé et ont perdu leur allocations familiales.
+- Entre 2014 et 2020, des milliers de familles néérlandaises ont été accusées de fraude par un système automatisé et ont perdu leurs allocations familiales.
   Cela a fait [tomber le gouvernement en 2021](https://www.rtbf.be/article/crise-politique-aux-pays-bas-demission-du-premier-ministre-mark-rutte-10674533).
   4 ans plus tard, la [plupart des familles n'ont pas encore été dédommagées](https://www.lemonde.fr/international/article/2025/01/09/aux-pays-bas-le-cout-d-un-scandale-sur-les-allocations-familiales-qui-engorge-les-tribunaux_6489882_3210.html).
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (Propublica, mai 2016):
