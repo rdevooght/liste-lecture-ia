@@ -33,6 +33,8 @@ D'après [Anthropic](https://www.anthropic.com/news/the-anthropic-economic-index
 
 ![Graphique comparant, par domaine d'activité professionnelle aux US, le pourcentage de personnes travaillant dans ce secteur et le pourcentage de requêtes faites au LLM Claude liées à ce secteur](static/claude_usage.webp)
 
+Un bémol par rapport à cette étude: Anthropic est peu connu du grand public, et leur LLM est réputé pour être le meilleur pour les tâches de programmation. Il est donc probable que cette étude ne reflète pas l'utilisation de ChatGPT, le LLM le plus populaire, et surreprésente l'usage pour la programmation.
+
 
 ## Copyrigth
 
