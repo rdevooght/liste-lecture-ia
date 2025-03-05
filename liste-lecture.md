@@ -96,6 +96,9 @@ L'ancien CEO de google le dit clairement:
 "We're not going to hit the climate goals anyway because we're not organized to do it [...] I'd rather bet on AI solving the problem, than constraining it and having the problem."
 (Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024)
 
+[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator) propose d'estimer la consommation énergétique d'une requête à un LLM.
+
+
 ### Consommation d'eau
 
 Le sujet de la consommation d'eau est complexe.
