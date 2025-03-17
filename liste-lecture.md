@@ -165,6 +165,14 @@ le programme n'a su compléter que 3 des 20 tâches demandées.
 > Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
 > Tasks that seemed similar to our early successes would fail in unexpected ways.
 
+## Désinformation
+
+[Le réseau de désinformation prorusse « Portal Kombat » contamine les IA génératives](https://next.ink/174290/le-reseau-de-desinformation-prorusse-portal-kombat-contamine-les-ia-generatives/) (next, mars 2025):
+La Russie utilise un réseau de plusieurs centaines de sites web pour diffuser de la désinformation et du contenu pro-russe.
+Ce réseau publie près de 10.000 articles par jour, et il semble qu'un de ses objectifs soit de contaminer les données d'entrainement des LLMs.
+D'après un audit de [NewsGuard](https://www.newsguardtech.com/fr/special-reports/reseau-global-desinformation-contamination-intelligence-artificielle-propagande-russe/) cette stratégie fonctionne:
+les principaux LLMs répètent de fausses informations publiées par se réseau russe dans 33% des tests.
+
 ## Surveillance
 
 [L’Oracle de l’Empire](https://legrandcontinent.eu/fr/2025/01/24/dominer-la-societe-avec-lia-la-face-cachee-du-projet-stargate-x/) (Le Grand Continent, janvier 2025):
