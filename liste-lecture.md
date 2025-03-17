@@ -65,6 +65,9 @@ Cette question a une grande importance, les IA génératives peuvent générer d
 
 ![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
 
+Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les developpeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
+Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
+
 ## Travail caché
 
 Sur le travail d'annotation:
@@ -125,11 +128,15 @@ Cet outil, basé sur le modèle Whispers d'OpenAI, invente parfois des phrases e
 De plus, l'audio original est supprimé pour des raisons de confidentialité, ce qui rend impossible de vérifier la véracité des transcriptions.
 
 
-[L'IA invente des citations](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf) (BBC, janvier 2025):
-Bien qu'il y ait un conflit d'intérêt évident, cette étude de la BBC est intéressante.
-45 journalistes de la BBC ont évalué 362 réponses de ChatGPT, Copilot, Gemini et Perplexity.
-Les questions portaient sur l'actualité et demandaient d'utiliser la BBC comme source de préférence.
-19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées.
+[AI Search Has A Citation Problem](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php) (Columbia Journalism Review, mars 2025):
+Une équipe de l'université de Columbia a testé 8 LLMs dotés de capacités de recherche.
+Les LLMs recevaient un extrait d'un article de presse et devaient trouver la source de cet extrait (titre, publication, url).
+Les réponses étaient fausses dans plus de 60% des cas. Les versions payantes avaient de pires résultats que les versions gratuites.
+Les LLMs inventent de faux liens ou des liens vers les mauvais articles.
+Ce problème persiste même dans les cas où il existe un accord de licence entre le média et l'entreprise fournissant le LLM.
+
+Dans la même veine, la BBC a évalué plusieurs LLMs à travers 362 questions sur l'actualité en demandant d'utiliser la BBC comme source de préférence.
+19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées ([source: BBC](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf), janvier 2025).
 
 Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées suicidaires vers une ligne de prévention du suicide, mais hallucine de faux numéros de téléphone ([Futurism, février 2025](https://futurism.com/amazon-ai-suicide-hotline)).
 
