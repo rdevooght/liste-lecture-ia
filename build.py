@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 import markdown
 from typing import List, Tuple
+from unidecode import unidecode
 
 def find_replace_patterns(content: str) -> List[Tuple[str, str, str]]:
     """
@@ -58,6 +59,41 @@ def insert_html(html_path: str) -> str:
 
     return html_content
 
+def add_table_of_contents(html_content: str) -> str:
+    """
+    Check if the HTML contains the {{toc}} pattern.
+    If it does, replace it with the table of contents.
+    To do so, add an id to each heading and create a list of links.
+    """
+    # Find all headings of level 2, 3, and 4
+    headings = re.findall(r'<h(2|3|4)>([^<]+)</h(2|3|4)>', html_content)
+
+    # Create a list of links
+    toc = "<ul>"
+    prev_level = 2
+    for level, title, _ in headings:
+        level = int(level)
+
+        # Add an id to the heading
+        heading_id = re.sub(r'[^a-z ]', '', unidecode(title.lower())).replace(' ', '-')
+        html_content = html_content.replace(f'<h{level}>{title}</h{level}>', f'<h{level} id="{heading_id}">{title}</h{level}>')
+
+        # If the heading level is higher than the previous one, add a nested list
+        if level > prev_level:
+            toc += "<ul>"
+        # If the heading level is lower than the previous one, close the nested list(s) until the correct level
+        elif level < prev_level:
+            toc += "</ul>" * (prev_level - level)
+        prev_level = level
+
+        # Add the link to the table of contents
+        toc += f'<li><a href="#{heading_id}">{title}</a></li>'
+    toc += "</ul>"
+
+    # Replace the {{toc}} pattern with the table of contents
+    return html_content.replace("{{toc}}", toc)
+
+
 def process_html_file(src_path: str, dest_dir: str) -> None:
     """
     Process a single HTML file, replacing markdown references with HTML content
@@ -81,6 +117,9 @@ def process_html_file(src_path: str, dest_dir: str) -> None:
         html_content = ext_parser[ext](path)
         # Replace the pattern with HTML content
         content = content.replace(full_pattern, html_content)
+
+    # Add table of contents
+    content = add_table_of_contents(content)
 
     # Create destination directory if it doesn't exist
     os.makedirs(dest_dir, exist_ok=True)

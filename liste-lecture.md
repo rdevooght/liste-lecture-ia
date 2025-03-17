@@ -1,7 +1,3 @@
-Cette page a vocation à évoluer au fil de mes lectures.
-C'est avant tout une manière pour moi de garder une trace d'articles intéressants,
-et j'espère que cela peut être utile à d'autres pour se faire un aperçu de ce sujet complexe.
-
 ## Qu'est-ce que l'IA?
 
 [What is AI?](https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/) (MIT Technology Review, Juillet 2024):
