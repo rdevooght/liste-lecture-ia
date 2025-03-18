@@ -246,3 +246,6 @@ Quelques exemples:
   Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires.
 - [l’assurance-maladie coupe dans les indemnités de milliers d’usagers](https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers) (Mediapart, janvier 2025):
 En France, un nouveau système automatique de paiement des indemnités de l'assurance-maladie testé dans quelques départements dysfonctionne et des milliers de personnes se retrouvent sans indemnités depuis plusieurs mois.
+- Les banques utilisent des algorithmes pour fermer de manière automatisée des comptes qui présentent des comportement suspect. C'est fait dans un objectif de lutte contre la fraude et le blanchiment d'argent, mais ces systèmes souffre d'un très grand nombre de "faux positifs", c'est-à-dire des comptes fermés alors qu'ils ne devaient pas l'être. Les conséquences pour les individus et organisations qui perdent leur compte de cette manière peuvent être graves. ([Dans les Algorithmes](https://danslesalgorithmes.net/2025/03/11/dans-les-algorithmes-bancaires/), mars 2025)
+
+Sur le sujet, il est intéressant de suivre le travail de [AlgorithmWatch](https://algorithmwatch.org/en/).
