@@ -108,7 +108,33 @@ Par exemple à Colón, au Mexique, une zone semi-aride où Microsoft, Google et 
 Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d'eau de la commune, alors que les fermiers de la région ont perdu leurs récoltes à cause de sécheresses successives.
 ([Thirsty data centres spring up in water-poor Mexican town](https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town), Context, septembre 2024)
 
-## Hallucinations
+
+## Capacités
+
+[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
+Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
+
+De manière générale, le [blog de Simon Willison](https://simonwillison.net/tags/ai/) est une bonne source d'information sur les performances des LLMs.
+
+[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) (Stratechery, janvier 2025):
+DeepSeek est une famille de LLMs développés par une entreprise chinoise.
+Ce sont les premiers modèles "open-source" dont les performances égalent celles des modèles les plus performants de OpenAI et Anthropic
+(à l'exception probablement du modèle o3 d'OpenAI, qui n'est pour l'instant accessible qu'à une poignée de chercheurs·euses).
+Les interdictions d'export imposées par les US font que DeepSeek a été développé sur des GPUs d'ancienne génération.
+Cela a forcé les développeurs à de nombreuses innovations sur l'architecture des modèles et à un important travail d'optimisation ("an insane level of optimization" d'après Ben Thompson).
+Le résultat est un modèle non seulement très puissant, mais aussi beaucoup moins énergivore que les modèles concurrents, tant à l'entraînement qu'à l'inférence.
+
+D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
+
+[Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
+Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
+La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux:
+le programme n'a su compléter que 3 des 20 tâches demandées.
+
+> Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
+> Tasks that seemed similar to our early successes would fail in unexpected ways.
+
+### Hallucinations
 
 Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
 Cette approche produit des textes vraisemblables, mais qui ne sont pas toujours factuellement corrects.
@@ -135,31 +161,6 @@ Dans la même veine, la BBC a évalué plusieurs LLMs à travers 362 questions s
 19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées ([source: BBC](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf), janvier 2025).
 
 Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées suicidaires vers une ligne de prévention du suicide, mais hallucine de faux numéros de téléphone ([Futurism, février 2025](https://futurism.com/amazon-ai-suicide-hotline)).
-
-## Capacités
-
-[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
-Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
-
-De manière générale, le [blog de Simon Willison](https://simonwillison.net/tags/ai/) est une bonne source d'information sur les performances des LLMs.
-
-[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) (Stratechery, janvier 2025):
-DeepSeek est une famille de LLMs développés par une entreprise chinoise.
-Ce sont les premiers modèles "open-source" dont les performances égalent celles des modèles les plus performants de OpenAI et Anthropic
-(à l'exception probablement du modèle o3 d'OpenAI, qui n'est pour l'instant accessible qu'à une poignée de chercheurs·euses).
-Les interdictions d'export imposées par les US font que DeepSeek a été développé sur des GPUs d'ancienne génération.
-Cela a forcé les développeurs à de nombreuses innovations sur l'architecture des modèles et à un important travail d'optimisation ("an insane level of optimization" d'après Ben Thompson).
-Le résultat est un modèle non seulement très puissant, mais aussi beaucoup moins énergivore que les modèles concurrents, tant à l'entraînement qu'à l'inférence.
-
-D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
-
-[Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
-Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
-La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux:
-le programme n'a su compléter que 3 des 20 tâches demandées.
-
-> Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
-> Tasks that seemed similar to our early successes would fail in unexpected ways.
 
 ## Désinformation
 
