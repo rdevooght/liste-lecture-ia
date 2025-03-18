@@ -112,6 +112,7 @@ Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d
 ## Capacités
 
 Pour comparer les différents LLMs, il existe:
+
 - [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true) compare de nombreux modèles à poids ouverts selon une série de benchmarks.
 
