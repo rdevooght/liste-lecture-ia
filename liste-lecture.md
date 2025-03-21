@@ -46,6 +46,20 @@ Tout cela avec la validation de Mark Zuckerberg.
 
 > memo to Meta’s AI decision-makers noting that after “escalation to MZ,” Meta’s AI team “has been approved to use LibGen”
 
+Meta ne sont pas les seuls à entrainer leur LLMs sur des données dont ils ne possèdent pas les droits.
+Dans une lettre au parlement britanique, OpenAI déclare "it would be impossible to train today’s leading AI models without using copyrighted materials" ([parliament.uk](https://committees.parliament.uk/writtenevidence/126981/pdf/)).
+
+En s'adressant au gouvernement américain, OpenAI et Google demandent de légiférer pour les laisser ignorer les droits d'auteur des données d'entrainement.
+Leur argument: les chinois vont le faire, alors si on ne veut pas se faire dépasser, on doit le faire aussi ([The Verge](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception), mars 2025).
+
+
+[Every AI Copyright Lawsuit in the US](https://www.wired.com/story/ai-copyright-case-tracker/) (The Verge, décembre 2024)
+
+![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
+
+Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les developpeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
+Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
+
 [To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, décembre 2024):
 A qui appartient le contenu généré par une IA? Les développeurs, les entreprises, les utilisateurs, les IA elles-mêmes, tout le monde?
 Peut-être que la notion de propriété intellectuelle n'est pas adaptée au contenu généré par une IA.
@@ -57,12 +71,8 @@ Cette question a une grande importance, les IA génératives peuvent générer d
 "The value of intellectual property exceeds 65% for Fortune 500 companies and exceeds 90% for certain technology-based companies within the list"
 (cité depuis [The Value of Intellectual Property](https://www.heerlaw.com/value-intellectual-property)).
 
-[Every AI Copyright Lawsuit in the US](https://www.wired.com/story/ai-copyright-case-tracker/) (The Verge, décembre 2024)
+Pour l'instant, aux US, la décision des juges est que les contenus générés par de l'IA ne sont pas protégés par un copyright ([Reuters](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/), mars 2025)
 
-![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
-
-Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les developpeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
-Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
 
 ## Travail caché
 
