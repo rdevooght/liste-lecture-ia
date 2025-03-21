@@ -208,6 +208,9 @@ On ne sait pas quelle est la précision de cet outil, mais on peut le tester soi
 
 En février 2025, Google change ses principes de gouvernance pour s'autoriser à développer de l'IA dans le domaine de l'armement et de la surveillance ([Le monde](https://www.lemonde.fr/pixels/article/2025/02/05/google-assouplit-ses-principes-concernant-l-usage-de-l-ia-dans-l-armement-ou-la-surveillance_6532915_4408996.html)).
 
+L'entreprise Cellebrite vend à la police un outil pour déverouiller les téléphones.
+Cet outil vient maintenant avec une IA censée synthéthiser les messages et identifier les activités suspectes,
+ce qui semble peu prudent étant donné que ce genre d'IA pourrait halluciner et inventer des "preuves" ([techdirt](https://www.techdirt.com/2025/03/18/cellebrite-dumps-ai-into-its-cell-phone-scraping-tool-so-cops-can-hallucinate-evidence/),mars 2025).
 
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
