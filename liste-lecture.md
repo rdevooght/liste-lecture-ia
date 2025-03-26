@@ -34,6 +34,8 @@ Un bémol par rapport à cette étude: Anthropic est peu connu du grand public, 
 
 ## Copyrigth
 
+### Des contenus utilisés pour l'entrainement
+
 [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
 Grâce aux communications internes de Meta, obtenues dans le cadre d'un procès concernant les données d'entraînement de son IA,
 il apparaît que Meta a utilisé la plus grande base de données de livres piratés (LibGen) pour entraîner son IA.
@@ -59,6 +61,11 @@ Leur argument: les chinois vont le faire, alors si on ne veut pas se faire dépa
 
 Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les developpeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
 Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
+
+[Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/) (Ars Technica, mars 2025):
+En plus d'utiliser des contenus sans autorisation, les entreprises développant des LLMs mettent à mal de nombreux projets open source en inondant leurs serveurs de requêtes pour récupérer des données d'entrainement.
+
+### Des contenus générés par l'IA
 
 [To Whom Does the World Belong?](https://www.bostonreview.net/articles/to-whom-does-the-world-belong/) (Boston Review, décembre 2024):
 A qui appartient le contenu généré par une IA? Les développeurs, les entreprises, les utilisateurs, les IA elles-mêmes, tout le monde?
