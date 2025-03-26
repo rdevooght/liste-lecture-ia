@@ -4,6 +4,8 @@
 Un long article pour présenter les points de vue très différents que des expert·es ont sur ce qu'est l'IA.
 Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondamentaux et qu'ils reflètent davantage des différences d'idéologies que de maîtrise du sujet.
 
+Cette page rassemble surtout des actualités sur l’IA génératives, et en particulier sur les LLMs.
+
 ## Utilisation
 
 19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/).
@@ -195,6 +197,13 @@ La Russie utilise un réseau de plusieurs centaines de sites web pour diffuser d
 Ce réseau publie près de 10.000 articles par jour, et il semble qu'un de ses objectifs soit de contaminer les données d'entrainement des LLMs.
 D'après un audit de [NewsGuard](https://www.newsguardtech.com/fr/special-reports/reseau-global-desinformation-contamination-intelligence-artificielle-propagande-russe/) cette stratégie fonctionne:
 les principaux LLMs répètent de fausses informations publiées par se réseau russe dans 33% des tests.
+
+## Slop
+
+[Quand l'IA slope tout](https://lepavenumerique.substack.com/p/quand-lia-slope-tout) (le pavé numérique, mars 2025):
+Les outils de génération de vidéo sont utilisés pour inonder les réseaux sociaux. Ces réseaux ne semblent pas vouloir lutter contre cela.
+
+Une vidéo donnant une idée de l’ampleur du phénomène sur youtube: La sagesse selon YouTube : [plongée dans un océan de contenu généré par IA](https://www.youtube.com/watch?v=rJE2qkP0Gk4) (Monsieur Phi, octobre 2024)
 
 ## Surveillance
 
