@@ -9,10 +9,10 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/).
 En février 2025, OpenAI annonce avoir 400 millions d'utilisateurs par semaine (source: [Reuters](https://www.reuters.com/technology/artificial-intelligence/openais-weekly-active-users-surpass-400-million-2025-02-20/)).
 
-OpenAI/chatGPT a probablement plus d'utilisateurs qui tous les autres LLMs combinés ([Edward Zitron](https://www.wheresyoured.at/wheres-the-money/), février 2025).
+OpenAI/chatGPT a probablement plus d'utilisateurs que tous les autres LLMs combinés ([Edward Zitron](https://www.wheresyoured.at/wheres-the-money/), février 2025).
 
-Les belges sont moins optimistes que la moyenne par rapport à l'IA:
-41% des belges pensent que l'IA aura un impact positif sur leur vie, contre 61% en moyenne dans le monde.
+Les Belges sont moins optimistes que la moyenne par rapport à l'IA:
+41% des Belges pensent que l'IA aura un impact positif sur leur vie, contre 61% en moyenne dans le monde.
 ([Global opinions and expectations about AI](https://www.ipsos.com/sites/default/files/ct/news/documents/2022-01/Global-opinions-and-expectations-about-AI-2022.pdf), enquête Ipsos, janvier 2022)
 
 Il semble que mieux connaître le fonctionnement des IA ferait qu'on l'utilise moins
@@ -34,7 +34,7 @@ Un bémol par rapport à cette étude: Anthropic est peu connu du grand public, 
 
 ## Copyrigth
 
-### Des contenus utilisés pour l'entrainement
+### Des contenus utilisés pour l'entraînement
 
 [Meta pirate du contenu pour entrainer son IA](https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjdkdopq/META%20COPYRIGHT%20LAWSUIT%20libgen.pdf) (Reuters, janvier 2025):
 Grâce aux communications internes de Meta, obtenues dans le cadre d'un procès concernant les données d'entraînement de son IA,
@@ -48,10 +48,10 @@ Tout cela avec la validation de Mark Zuckerberg.
 
 > memo to Meta’s AI decision-makers noting that after “escalation to MZ,” Meta’s AI team “has been approved to use LibGen”
 
-Meta ne sont pas les seuls à entrainer leur LLMs sur des données dont ils ne possèdent pas les droits.
-Dans une lettre au parlement britanique, OpenAI déclare "it would be impossible to train today’s leading AI models without using copyrighted materials" ([parliament.uk](https://committees.parliament.uk/writtenevidence/126981/pdf/)).
+Meta ne sont pas les seuls à entraîner leur LLMs sur des données dont ils ne possèdent pas les droits.
+Dans une lettre au parlement britannique, OpenAI déclare "it would be impossible to train today’s leading AI models without using copyrighted materials" ([parliament.uk](https://committees.parliament.uk/writtenevidence/126981/pdf/)).
 
-En s'adressant au gouvernement américain, OpenAI et Google demandent de légiférer pour les laisser ignorer les droits d'auteur des données d'entrainement.
+En s'adressant au gouvernement américain, OpenAI et Google demandent de légiférer pour les laisser ignorer les droits d'auteur des données d'entraînement.
 Leur argument: les chinois vont le faire, alors si on ne veut pas se faire dépasser, on doit le faire aussi ([The Verge](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception), mars 2025).
 
 
@@ -59,7 +59,7 @@ Leur argument: les chinois vont le faire, alors si on ne veut pas se faire dépa
 
 ![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
 
-Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les developpeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
+Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les développeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
 Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
 
 [Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/) (Ars Technica, mars 2025):
@@ -210,7 +210,7 @@ Dans un discours à propos du projet Stargate (100 milliard d'investissement dan
 > Sans travail humain, pas de malveillance humaine, pas d’erreur humaine — et pas de coût humain.
 
 En Belgique, le nouveau gouvernement prévoit d'utiliser la reconaissance faciale et d'étendre les possibilités d'utilisation des caméras de surveillance ([Accord de coalition fédérale 2025-2029](https://www.belgium.be/sites/default/files/resources/publication/files/Accord_gouvernemental-Bart_De_Wever_fr.pdf), p145).
-C'est apparement la France apparement qui a poussé pour que ce genre de surveillance par IA soit autorisé en Europe ([Investigate Europe](https://www.investigate-europe.eu/fr/posts/france-spearheads-member-state-campaign-dilute-european-artificial-intelligence-regulation), janvier 2025).
+C'est apparemment la France qui a poussé pour que ce genre de surveillance par IA soit autorisé en Europe ([Investigate Europe](https://www.investigate-europe.eu/fr/posts/france-spearheads-member-state-campaign-dilute-european-artificial-intelligence-regulation), janvier 2025).
 
 La commune de Vernon en France offre un exemple de discours sur les caméras de surveillance couplées à de l'IA. Le maire y tient ces propos: "ça va nous aider face aux problèmes d’incivilités. Demain, une caméra pourrait détecter un mégot de cigarette jeté par terre. J’ai demandé à des prestataires de faire des propositions pour trouver le bon algorithme." ([source: Le Parisien, janvier 2025](https://www.leparisien.fr/eure-27/vernon-mise-sur-lintelligence-artificielle-pour-lutter-contre-les-incivilites-et-gagner-en-productivite-27-01-2025-YO6CHGD6XBGMDOIIOVBULFOSDQ.php))
 
@@ -219,13 +219,13 @@ On ne sait pas quelle est la précision de cet outil, mais on peut le tester soi
 
 En février 2025, Google change ses principes de gouvernance pour s'autoriser à développer de l'IA dans le domaine de l'armement et de la surveillance ([Le monde](https://www.lemonde.fr/pixels/article/2025/02/05/google-assouplit-ses-principes-concernant-l-usage-de-l-ia-dans-l-armement-ou-la-surveillance_6532915_4408996.html)).
 
-L'entreprise Cellebrite vend à la police un outil pour déverouiller les téléphones.
-Cet outil vient maintenant avec une IA censée synthéthiser les messages et identifier les activités suspectes,
+L'entreprise Cellebrite vend à la police un outil pour déverrouiller les téléphones.
+Cet outil vient maintenant avec une IA censée résumer les messages et identifier les activités suspectes,
 ce qui semble peu prudent étant donné que ce genre d'IA pourrait halluciner et inventer des "preuves" ([techdirt](https://www.techdirt.com/2025/03/18/cellebrite-dumps-ai-into-its-cell-phone-scraping-tool-so-cops-can-hallucinate-evidence/),mars 2025).
 
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
-C'est à dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
+C'est-à-dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
 Plus on donnera de capacité aux IA d'effectuer des actions et de prendre des décisions ayant un impact réel, plus ce risque sera important.
 Malheureusement, il semble que plus les IA deviennent performantes, plus il est compliqué de comprendre comment elles fonctionnent et donc de s'assurer qu'elles sont alignées.
 
@@ -262,7 +262,7 @@ Quand on parle d'ADMS, on ne s'intéresse pas vraiment à comment fonctionne le 
 mais plutôt à ses conséquences.
 Par exemple, un algorithme qui identifie des déclarations fiscales à contrôler en priorité est un ADMS, qu'il soit basé sur des règles simples ou un modèle de deep learning.
 
-Les ADMS sont de plus en plus couramment utilisés, et leur conséquences peuvent être très importantes,
+Les ADMS sont de plus en plus couramment utilisés, et leurs conséquences peuvent être très importantes,
 en particulier quand elles sont déployées dans des services publics.
 Ces dernières années ont déjà montré plusieurs échecs de ces systèmes, qui ont souvent mené à des pertes de droits pour des personnes déjà précaires.
 Pourtant, ces systèmes continuent à être déployés.
@@ -276,6 +276,6 @@ Quelques exemples:
   Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires.
 - [l’assurance-maladie coupe dans les indemnités de milliers d’usagers](https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers) (Mediapart, janvier 2025):
 En France, un nouveau système automatique de paiement des indemnités de l'assurance-maladie testé dans quelques départements dysfonctionne et des milliers de personnes se retrouvent sans indemnités depuis plusieurs mois.
-- Les banques utilisent des algorithmes pour fermer de manière automatisée des comptes qui présentent des comportement suspect. C'est fait dans un objectif de lutte contre la fraude et le blanchiment d'argent, mais ces systèmes souffre d'un très grand nombre de "faux positifs", c'est-à-dire des comptes fermés alors qu'ils ne devaient pas l'être. Les conséquences pour les individus et organisations qui perdent leur compte de cette manière peuvent être graves. ([Dans les Algorithmes](https://danslesalgorithmes.net/2025/03/11/dans-les-algorithmes-bancaires/), mars 2025)
+- Les banques utilisent des algorithmes pour fermer de manière automatisée des comptes qui présentent des comportements suspects. C'est fait dans un objectif de lutte contre la fraude et le blanchiment d'argent, mais ces systèmes souffrent d'un très grand nombre de "faux positifs", c'est-à-dire des comptes fermés alors qu'ils ne devaient pas l'être. Les conséquences pour les individus et organisations qui perdent leur compte de cette manière peuvent être graves. ([Dans les Algorithmes](https://danslesalgorithmes.net/2025/03/11/dans-les-algorithmes-bancaires/), mars 2025)
 
 Sur le sujet, il est intéressant de suivre le travail de [AlgorithmWatch](https://algorithmwatch.org/en/).
