@@ -6,6 +6,81 @@ Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondam
 
 Cette page rassemble surtout des actualités sur l’IA génératives, et en particulier sur les LLMs.
 
+## Capacités
+
+Il est très difficile de parler des capacités des IA génératives, entre autre parce que:
+
+- De nouveaux modèles sortent en permanence
+- Des progrès réels sont survendus par les discours marketing
+- De meilleures performances dans des benchmarks ne signifie pas forcément que les performances vont sembler meilleures à l’usage
+- Certains aspects de la qualité de ces IA générative est très subjective
+- Il y a énormément de type d’utilisation
+- Les utilisateurs ne savent souvent pas quel modèle iels utilisent
+
+Pour comparer les différents LLMs, il existe:
+
+- [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs
+- [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true) compare de nombreux modèles à poids ouverts selon une série de benchmarks.
+
+[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
+Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
+
+De manière générale, le [blog de Simon Willison](https://simonwillison.net/tags/ai/) est une bonne source d'information sur les performances des LLMs.
+
+### Nouveaux modèles et développements
+
+Faire le suivi des nouveaux modèles semble peine perdue, mais voici néamoins quelques articles intéressants:
+
+[Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/) (Wired, mars 2025):
+Wired a récolté des interviews d'une cinquantaine d'employés de Google pour retracer les dernières années de développement de leur IA générative. L'entreprise a réaffecté une grande partie de ses ressources et abandonné beaucoup de ses mesures de précaution pour tenter de rattraper OpenAI.
+Aucune mention cependant du travail externalisé pour l'annotation des données, ce qui a pourtant dû être une part importante du travail fourni.
+
+[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) (Stratechery, janvier 2025):
+DeepSeek est une famille de LLMs développés par une entreprise chinoise.
+Ce sont les premiers modèles "open-source" dont les performances égalent celles des modèles les plus performants de OpenAI et Anthropic
+(à l'exception probablement du modèle o3 d'OpenAI, qui n'est pour l'instant accessible qu'à une poignée de chercheurs·euses).
+Les interdictions d'export imposées par les US font que DeepSeek a été développé sur des GPUs d'ancienne génération.
+Cela a forcé les développeurs à de nombreuses innovations sur l'architecture des modèles et à un important travail d'optimisation ("an insane level of optimization" d'après Ben Thompson).
+Le résultat est un modèle non seulement très puissant, mais aussi beaucoup moins énergivore que les modèles concurrents, tant à l'entraînement qu'à l'inférence.
+
+D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
+
+[Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
+Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
+La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux:
+le programme n'a su compléter que 3 des 20 tâches demandées.
+
+> Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
+> Tasks that seemed similar to our early successes would fail in unexpected ways.
+
+### Hallucinations
+
+Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
+Cette approche produit des textes vraisemblables, mais qui ne sont pas toujours factuellement corrects.
+On parle alors d'hallucinations.
+D'après certain•es chercheur•ses, ces hallucinations sont inévitables ([LLMs Will Always Hallucinate, and We Need to Live
+With This](https://arxiv.org/pdf/2409.05746), septembre 2024).
+
+Voici quelques exemples d'hallucinations et des problèmes qu'elles posent:
+
+[AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) (AP, octobre 2024):
+Des hôpitaux aux US utilisent un outil de transcription automatique pour garder une trace écrite des consultations.
+Cet outil, basé sur le modèle Whispers d'OpenAI, invente parfois des phrases entières.
+De plus, l'audio original est supprimé pour des raisons de confidentialité, ce qui rend impossible de vérifier la véracité des transcriptions.
+
+
+[AI Search Has A Citation Problem](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php) (Columbia Journalism Review, mars 2025):
+Une équipe de l'université de Columbia a testé 8 LLMs dotés de capacités de recherche.
+Les LLMs recevaient un extrait d'un article de presse et devaient trouver la source de cet extrait (titre, publication, url).
+Les réponses étaient fausses dans plus de 60% des cas. Les versions payantes avaient de pires résultats que les versions gratuites.
+Les LLMs inventent de faux liens ou des liens vers les mauvais articles.
+Ce problème persiste même dans les cas où il existe un accord de licence entre le média et l'entreprise fournissant le LLM.
+
+Dans la même veine, la BBC a évalué plusieurs LLMs à travers 362 questions sur l'actualité en demandant d'utiliser la BBC comme source de préférence.
+19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées ([source: BBC](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf), janvier 2025).
+
+Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées suicidaires vers une ligne de prévention du suicide, mais hallucine de faux numéros de téléphone ([Futurism, février 2025](https://futurism.com/amazon-ai-suicide-hotline)).
+
 ## Utilisation
 
 19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/).
@@ -132,63 +207,7 @@ Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d
 ([Thirsty data centres spring up in water-poor Mexican town](https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town), Context, septembre 2024)
 
 
-## Capacités
 
-Pour comparer les différents LLMs, il existe:
-
-- [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs
-- [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true) compare de nombreux modèles à poids ouverts selon une série de benchmarks.
-
-[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
-Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
-
-De manière générale, le [blog de Simon Willison](https://simonwillison.net/tags/ai/) est une bonne source d'information sur les performances des LLMs.
-
-[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) (Stratechery, janvier 2025):
-DeepSeek est une famille de LLMs développés par une entreprise chinoise.
-Ce sont les premiers modèles "open-source" dont les performances égalent celles des modèles les plus performants de OpenAI et Anthropic
-(à l'exception probablement du modèle o3 d'OpenAI, qui n'est pour l'instant accessible qu'à une poignée de chercheurs·euses).
-Les interdictions d'export imposées par les US font que DeepSeek a été développé sur des GPUs d'ancienne génération.
-Cela a forcé les développeurs à de nombreuses innovations sur l'architecture des modèles et à un important travail d'optimisation ("an insane level of optimization" d'après Ben Thompson).
-Le résultat est un modèle non seulement très puissant, mais aussi beaucoup moins énergivore que les modèles concurrents, tant à l'entraînement qu'à l'inférence.
-
-D'après Ben Thompson, DeepSeek a probablement utilisé abondamment les données générées par les modèles de OpenAI et Anthropic, comme source d'entraînement.
-
-[Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.htm) (Answer.AI, janvier 2025):
-Devon est l'un des premiers "agents" IA, un programme censé pouvoir réaliser des tâches complexes de A à Z au point de pouvoir vous remplacer au travail.
-La spécialité de Devon est la programmation, mais d'après les tests de l'équipe d'answer.ai les résultats ne sont pas fameux:
-le programme n'a su compléter que 3 des 20 tâches demandées.
-
-> Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
-> Tasks that seemed similar to our early successes would fail in unexpected ways.
-
-### Hallucinations
-
-Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
-Cette approche produit des textes vraisemblables, mais qui ne sont pas toujours factuellement corrects.
-On parle alors d'hallucinations.
-D'après certain•es chercheur•ses, ces hallucinations sont inévitables ([LLMs Will Always Hallucinate, and We Need to Live
-With This](https://arxiv.org/pdf/2409.05746), septembre 2024).
-
-Voici quelques exemples d'hallucinations et des problèmes qu'elles posent:
-
-[AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) (AP, octobre 2024):
-Des hôpitaux aux US utilisent un outil de transcription automatique pour garder une trace écrite des consultations.
-Cet outil, basé sur le modèle Whispers d'OpenAI, invente parfois des phrases entières.
-De plus, l'audio original est supprimé pour des raisons de confidentialité, ce qui rend impossible de vérifier la véracité des transcriptions.
-
-
-[AI Search Has A Citation Problem](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php) (Columbia Journalism Review, mars 2025):
-Une équipe de l'université de Columbia a testé 8 LLMs dotés de capacités de recherche.
-Les LLMs recevaient un extrait d'un article de presse et devaient trouver la source de cet extrait (titre, publication, url).
-Les réponses étaient fausses dans plus de 60% des cas. Les versions payantes avaient de pires résultats que les versions gratuites.
-Les LLMs inventent de faux liens ou des liens vers les mauvais articles.
-Ce problème persiste même dans les cas où il existe un accord de licence entre le média et l'entreprise fournissant le LLM.
-
-Dans la même veine, la BBC a évalué plusieurs LLMs à travers 362 questions sur l'actualité en demandant d'utiliser la BBC comme source de préférence.
-19% des réponses contenaient des erreurs factuelles, et 13% des citations étaient soit transformées soit purement inventées ([source: BBC](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf), janvier 2025).
-
-Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées suicidaires vers une ligne de prévention du suicide, mais hallucine de faux numéros de téléphone ([Futurism, février 2025](https://futurism.com/amazon-ai-suicide-hotline)).
 
 ## Désinformation
 
