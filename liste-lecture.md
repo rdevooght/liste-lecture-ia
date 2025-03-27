@@ -4,7 +4,7 @@
 Un long article pour présenter les points de vue très différents que des expert·es ont sur ce qu'est l'IA.
 Difficile d'en tirer une conclusion si ce n'est qu'il y a des désaccords fondamentaux et qu'ils reflètent davantage des différences d'idéologies que de maîtrise du sujet.
 
-Cette page rassemble surtout des actualités sur l’IA génératives, et en particulier sur les LLMs.
+Cette page rassemble surtout des actualités sur l’IA générative, et en particulier sur les LLMs.
 
 ## Capacités
 
@@ -29,7 +29,7 @@ De manière générale, le [blog de Simon Willison](https://simonwillison.net/ta
 
 ### Nouveaux modèles et développements
 
-Faire le suivi des nouveaux modèles semble peine perdue, mais voici néamoins quelques articles intéressants:
+Faire le suivi des nouveaux modèles semble peine perdue, mais voici néanmoins quelques articles intéressants:
 
 [Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/) (Wired, mars 2025):
 Wired a récolté des interviews d'une cinquantaine d'employés de Google pour retracer les dernières années de développement de leur IA générative. L'entreprise a réaffecté une grande partie de ses ressources et abandonné beaucoup de ses mesures de précaution pour tenter de rattraper OpenAI.
