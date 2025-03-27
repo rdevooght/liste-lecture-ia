@@ -13,8 +13,8 @@ Il est très difficile de parler des capacités des IA génératives, entre autr
 - De nouveaux modèles sortent en permanence
 - Des progrès réels sont survendus par les discours marketing
 - De meilleures performances dans des benchmarks ne signifie pas forcément que les performances vont sembler meilleures à l’usage
-- Certains aspects de la qualité de ces IA générative est très subjective
-- Il y a énormément de type d’utilisation
+- Certains aspects de la qualité de ces IA générative sont très subjectifs
+- Il y a énormément de types d’utilisation
 - Les utilisateurs ne savent souvent pas quel modèle iels utilisent
 
 Pour comparer les différents LLMs, il existe:
