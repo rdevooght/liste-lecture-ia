@@ -215,7 +215,7 @@ Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d
 La Russie utilise un réseau de plusieurs centaines de sites web pour diffuser de la désinformation et du contenu pro-russe.
 Ce réseau publie près de 10.000 articles par jour, et il semble qu'un de ses objectifs soit de contaminer les données d'entrainement des LLMs.
 D'après un audit de [NewsGuard](https://www.newsguardtech.com/fr/special-reports/reseau-global-desinformation-contamination-intelligence-artificielle-propagande-russe/) cette stratégie fonctionne:
-les principaux LLMs répètent de fausses informations publiées par se réseau russe dans 33% des tests.
+les principaux LLMs répètent de fausses informations publiées par ce réseau russe dans 33% des tests.
 
 ## Slop
 
