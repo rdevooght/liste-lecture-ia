@@ -22,6 +22,8 @@ Pour comparer les différents LLMs, il existe:
 - [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs (mais n'est pas à l'abris de manipulation: [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming), The Verge, avril 2025)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true) compare de nombreux modèles à poids ouverts selon une série de benchmarks.
 
+Stanford publie chaque année un rapport sur les évolution de l'IA: [2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report) (avril 2025).
+
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
 Un bon aperçu de l'évolution des LLMs en 2024 par Simon Willison.
 
