@@ -19,7 +19,7 @@ Il est très difficile de parler des capacités des IA génératives, entre autr
 
 Pour comparer les différents LLMs, il existe:
 
-- [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs
+- [Chatbot Arena](https://lmarena.ai/?leaderboard) qui classe de nombreux chatbots sur base des préférences exprimées par des utilisateurs (mais n'est pas à l'abris de manipulation: [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming), The Verge, avril 2025)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true) compare de nombreux modèles à poids ouverts selon une série de benchmarks.
 
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/):
