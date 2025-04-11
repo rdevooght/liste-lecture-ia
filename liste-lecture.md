@@ -251,6 +251,11 @@ L'entreprise Cellebrite vend à la police un outil pour déverrouiller les tél�
 Cet outil vient maintenant avec une IA censée résumer les messages et identifier les activités suspectes,
 ce qui semble peu prudent étant donné que ce genre d'IA pourrait halluciner et inventer des "preuves" ([techdirt](https://www.techdirt.com/2025/03/18/cellebrite-dumps-ai-into-its-cell-phone-scraping-tool-so-cops-can-hallucinate-evidence/),mars 2025).
 
+Clearview AI est une des entreprises pionnières dans la reconnaissance faciale de masse.
+Leur outil est utilisé entre autres par l'administration en charge de l'immigration aux États-Unis.
+Mother Jones offre une longue description de [l'histoire de cette entreprise et de l'idéologie raciste de ses fondateurs](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/) (avril 2025).
+
+
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
 C'est-à-dire, comment s'assurer que l'IA fasse effectivement ce que l'on veut qu'elle fasse, et pas autre chose.
@@ -301,7 +306,7 @@ Quelques exemples:
   Cela a fait [tomber le gouvernement en 2021](https://www.rtbf.be/article/crise-politique-aux-pays-bas-demission-du-premier-ministre-mark-rutte-10674533).
   4 ans plus tard, la [plupart des familles n'ont pas encore été dédommagées](https://www.lemonde.fr/international/article/2025/01/09/aux-pays-bas-le-cout-d-un-scandale-sur-les-allocations-familiales-qui-engorge-les-tribunaux_6489882_3210.html).
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (Propublica, mai 2016):
-  Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires.
+  Un outil utilisé par des tribunaux pour estimer un risque de récidive a un fonctionnement secret et semble biaisé contre les personnes noires. Ce même genre de système est utilisé aujourd'hui aux Royaumes-Unis, là aussi avec des problèmes de qualité et de biais ([Statewatch](https://www.statewatch.org/news/2025/april/uk-over-1-300-people-profiled-daily-by-ministry-of-justice-ai-system-to-predict-re-offending-risk/), avril 2025).
 - [l’assurance-maladie coupe dans les indemnités de milliers d’usagers](https://www.mediapart.fr/journal/france/270125/prise-au-piege-de-son-logiciel-l-assurance-maladie-coupe-dans-les-indemnites-de-milliers-d-usagers) (Mediapart, janvier 2025):
 En France, un nouveau système automatique de paiement des indemnités de l'assurance-maladie testé dans quelques départements dysfonctionne et des milliers de personnes se retrouvent sans indemnités depuis plusieurs mois.
 - Les banques utilisent des algorithmes pour fermer de manière automatisée des comptes qui présentent des comportements suspects. C'est fait dans un objectif de lutte contre la fraude et le blanchiment d'argent, mais ces systèmes souffrent d'un très grand nombre de "faux positifs", c'est-à-dire des comptes fermés alors qu'ils ne devaient pas l'être. Les conséquences pour les individus et organisations qui perdent leur compte de cette manière peuvent être graves. ([Dans les Algorithmes](https://danslesalgorithmes.net/2025/03/11/dans-les-algorithmes-bancaires/), mars 2025)
