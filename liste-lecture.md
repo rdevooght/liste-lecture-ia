@@ -142,7 +142,7 @@ Il existe un standard pour interdire l'accès à son site web aux IA, mais il se
 Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
 
 [Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/) (Ars Technica, mars 2025):
-En plus d'utiliser des contenus sans autorisation, les entreprises développant des LLMs mettent à mal de nombreux projets open source en inondant leurs serveurs de requêtes pour récupérer des données d'entrainement.
+En plus d'utiliser des contenus sans autorisation, les entreprises développant des LLMs mettent à mal de nombreux projets open source en inondant leurs serveurs de requêtes pour récupérer des données d'entrainement. Même Wikipedia en souffre ([Wikimedia](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects), avril 2025).
 
 ### Des contenus générés par l'IA
 
