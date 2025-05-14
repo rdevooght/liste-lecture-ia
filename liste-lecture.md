@@ -180,6 +180,10 @@ Derrière un chatbot pour une agence immobilière se cachaient 60 personnes qui 
 
 ### Consommation électrique
 
+[Energy and AI](https://www.iea.org/reports/energy-and-ai) (International Energy Agency, avril 2025):
+Un long rapport de l'IEA sur l'impact de l'IA sur le système énergétique mondial.
+Ils estiment que les émissions de gaz à effet de serre dus aux data centers vont augmenter de 18% à 150% d'ici 2030.
+
 [Powering Artificial Intelligence](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf) (Deloitte, novembre 2024):
 Deloitte estime que la consommation électrique liée à l'IA a augmenté de 47% par an entre 2020 et 2023, et devrait continuer à augmenter de 28% à 44% par an pendant les années à venir.
 
