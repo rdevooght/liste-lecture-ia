@@ -178,6 +178,15 @@ Derrière un chatbot pour une agence immobilière se cachaient 60 personnes qui 
 
 ## Impacts environnementaux
 
+Les grandes entreprises de l'IA n'étant pas du tout transparentes, il est difficile d'évaluer l'impact environnemental de l'IA.
+Voici certaines choses utiles à garder à l'esprit sur ce sujet:
+
+- Le nombre de data centers et leur puissance augmente, ce qui représente un vrai enjeu énergétique et environnemental.
+- Quand on parle de data centers, on mélange souvent de nombreux usages différents: l'IA, mais aussi les réseaux sociaux, les plateformes de streaming, les serveurs de jeux vidéo, etc. Difficile de savoir quelle part de la consommation est dû à quel usage.
+- Aujourd'hui, la part des chatbots dans la consommation des data centers est probablement beaucoup plus faible que celle de Netflix ou Youtube.
+- L'empreinte environnementale d'une requête typique à un chatbot est probablement très faible, voire insignifiante.
+- On ne se sait pas comment est répartie la consommation des IA génératives entre les utilisateurs. Il est possible qu'une part importante de la consommation soit dû à un faible nombre d'utilisateurs.
+
 ### Consommation électrique
 
 [Energy and AI](https://www.iea.org/reports/energy-and-ai) (International Energy Agency, avril 2025):
@@ -200,7 +209,7 @@ L'ancien CEO de google le dit clairement:
 "We're not going to hit the climate goals anyway because we're not organized to do it [...] I'd rather bet on AI solving the problem, than constraining it and having the problem."
 (Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024)
 
-[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator) propose d'estimer la consommation énergétique d'une requête à un LLM.
+[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator) propose d'estimer la consommation énergétique d'une requête à un LLM. Une requête typique à ChatGPT causerait une consommation électrique de l'ordre de 30Wh, ce qui est similaire à utiliser un micro-onde ou un grille-pain pendant une à deux minutes. [Epoch AI](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use) donne une autre estimation, environ 100 fois plus faible.
 
 
 ### Consommation d'eau
