@@ -193,6 +193,9 @@ Voici certaines choses utiles à garder à l'esprit sur ce sujet:
 Un long rapport de l'IEA sur l'impact de l'IA sur le système énergétique mondial.
 Ils estiment que les émissions de gaz à effet de serre dus aux data centers vont augmenter de 18% à 150% d'ici 2030.
 
+[We did the math on AI’s energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) (MIT technology review, mai 2025):
+Un article très accessible qui combine le micro (que consomme une requête à un chatbot) au macro (quel est la consommation globale des data centers).
+
 [Powering Artificial Intelligence](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf) (Deloitte, novembre 2024):
 Deloitte estime que la consommation électrique liée à l'IA a augmenté de 47% par an entre 2020 et 2023, et devrait continuer à augmenter de 28% à 44% par an pendant les années à venir.
 
@@ -211,6 +214,11 @@ L'ancien CEO de google le dit clairement:
 
 [EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator) propose d'estimer la consommation énergétique d'une requête à un LLM. Une requête typique à ChatGPT causerait une consommation électrique de l'ordre de 30Wh, ce qui est similaire à utiliser un micro-onde ou un grille-pain pendant une à deux minutes. [Epoch AI](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use) donne une autre estimation, environ 100 fois plus faible.
 
+Toutes les consommations électriques n'ont pas la même empreinte carbone: cela dépend de comment est produite l'électricité.
+On parle _d'intensité carbone_ pour mesurer la quantité de gaz à effet de serre émise pour une certaine quantité d'électricité.
+D'après ce [préprint de Harvard T.H. Chan School of Public Health](https://arxiv.org/pdf/2411.09786) (novembre 2024),
+l'intensité carbone des data centers au US est 48% plus élevées que la moyenne nationnale.
+Cela peut s'expliquer entre autre par les besoins constants en électricité des data centers, qui sont donc plus difficilement alimenté par des source renouvelables intermitentes (solaire ou éolien).
 
 ### Consommation d'eau
 
