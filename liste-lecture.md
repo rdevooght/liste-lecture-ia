@@ -232,7 +232,12 @@ Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d
 
 Dans le sud de l'espagne aussi, la construction de data centers est prévue dans des régions arides, avec des impacts incertains sur l'accès à l'eau pour la population et l'agriculture ([Politico, mai 2025](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/))
 
+### Qualité de l'air
 
+[‘How come I can’t breathe?': Musk’s data company draws a backlash in Memphis](https://www.politico.com/news/2025/05/06/elon-musk-xai-memphis-gas-turbines-air-pollution-permits-00317582) (Politico, juin 2025):
+L'entreprise xAI a construit un gigantesque data center en quelques mois dans l'un des quartiers les plus pauvres de Memphis.
+Faute de pouvoir l'approvisionner suffisamment en électricité via le réseau, xAI a installé des dizaines de turbines à gaz sans permis environnemental et sans les systèmes de contrôle de pollution normalement requis.
+Les polluants de type NOx émis par ces turbines sont connus pour agraver les problèmes respiratoires.
 
 
 ## Désinformation
