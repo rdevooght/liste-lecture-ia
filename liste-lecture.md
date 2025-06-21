@@ -230,7 +230,7 @@ Par exemple à Colón, au Mexique, une zone semi-aride où Microsoft, Google et 
 Microsoft a obtenu le droit d'utiliser l'équivalent de 24% de la consommation d'eau de la commune, alors que les fermiers de la région ont perdu leurs récoltes à cause de sécheresses successives.
 ([Thirsty data centres spring up in water-poor Mexican town](https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town), Context, septembre 2024)
 
-Dans le sud de l'espagne aussi, la construction de data centers sont prévus dans des régions arides, avec des impacts incertains sur l'accès à l'eau pour la population et l'agriculture ([Politico, mai 2025](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/))
+Dans le sud de l'espagne aussi, la construction de data centers est prévue dans des régions arides, avec des impacts incertains sur l'accès à l'eau pour la population et l'agriculture ([Politico, mai 2025](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/))
 
 
 
