@@ -336,3 +336,7 @@ En France, un nouveau système automatique de paiement des indemnités de l'assu
 - Les banques utilisent des algorithmes pour fermer de manière automatisée des comptes qui présentent des comportements suspects. C'est fait dans un objectif de lutte contre la fraude et le blanchiment d'argent, mais ces systèmes souffrent d'un très grand nombre de "faux positifs", c'est-à-dire des comptes fermés alors qu'ils ne devaient pas l'être. Les conséquences pour les individus et organisations qui perdent leur compte de cette manière peuvent être graves. ([Dans les Algorithmes](https://danslesalgorithmes.net/2025/03/11/dans-les-algorithmes-bancaires/), mars 2025)
 
 Sur le sujet, il est intéressant de suivre le travail de [AlgorithmWatch](https://algorithmwatch.org/en/).
+
+[How we investigated Amsterdam’s attempt to build a ‘fair’ fraud detection model](https://www.lighthousereports.com/methodology/amsterdam-fairness/) (Lighthouse reports, juin 2025):
+Un article très pédagogique sur la manière d'évaluer les biais d'un ADMS, et sur les difficultés de réduire ces biais.
+On y apprend que dans bien des cas, il n'est pas possible de réduire un biais sans en augmenter un autre.
