@@ -85,7 +85,7 @@ Le chatbot d'Amazon veut rediriger les utilisateurs qui expriment des pensées s
 
 ## Utilisation
 
-19% des français utilisent chatgpt: [Un Français sur cinq a déjà utilisé ChatGPT - Odoxa](https://www.odoxa.fr/sondage/un-francais-sur-cinq-a-deja-utilise-chatgpt/).
+[93 % des 18-25 ans utilisent l’IA en 2025](https://www.blogdumoderateur.com/etude-93-18-25-ans-utilisent-ia-2025/), via chatGPT dans 85% des cas (Enquête de l'agence Heaven, juin 2025, rapporté par BDM).
 En février 2025, OpenAI annonce avoir 400 millions d'utilisateurs par semaine (source: [Reuters](https://www.reuters.com/technology/artificial-intelligence/openais-weekly-active-users-surpass-400-million-2025-02-20/)).
 
 OpenAI/chatGPT a probablement plus d'utilisateurs que tous les autres LLMs combinés ([Edward Zitron](https://www.wheresyoured.at/wheres-the-money/), février 2025).
