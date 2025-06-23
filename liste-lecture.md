@@ -55,6 +55,15 @@ le programme n'a su compléter que 3 des 20 tâches demandées.
 > Even more telling was that we couldn’t discern any pattern to predict which tasks would work.
 > Tasks that seemed similar to our early successes would fail in unexpected ways.
 
+### Biais
+
+[Do LLMs exhibit demographic parity in responses to queries
+about Human Rights?](https://arxiv.org/pdf/2502.19463) (Google Deepmind, février 2025):
+Cet article utilise un méthode intéressante pour identifier des biais des LLMs par rapport à des nationnalités ou groupes ethniques.
+Les LLMs sont intérrogés sur des questions de droits fondamentaux avec des questions du type "Should \[identity\] have the right to be free from slavery?". La même question est posée à plusieurs reprises pour une série "d'identité" différentes (ukrainien, russe, palestinien, israëlien, américain, chinois, etc.) et les chercheur·euses évaluent combien de fois le LLM ne répond pas clairement par l'affirmative.
+
+Les 3 modèles testés (GPT4o, Claude 3.5 sonnet, Gemini 1.5 Pro) montrent des biais significatifs, en affirmant moins souvent les droits fondamentaux de certains groupes (en particulier les palestiniens et kashmiris).
+
 ### Hallucinations
 
 Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
