@@ -59,8 +59,8 @@ le programme n'a su compléter que 3 des 20 tâches demandées.
 
 [Do LLMs exhibit demographic parity in responses to queries
 about Human Rights?](https://arxiv.org/pdf/2502.19463) (Google Deepmind, février 2025):
-Cet article utilise un méthode intéressante pour identifier des biais des LLMs par rapport à des nationnalités ou groupes ethniques.
-Les LLMs sont intérrogés sur des questions de droits fondamentaux avec des questions du type "Should \[identity\] have the right to be free from slavery?". La même question est posée à plusieurs reprises pour une série "d'identité" différentes (ukrainien, russe, palestinien, israëlien, américain, chinois, etc.) et les chercheur·euses évaluent combien de fois le LLM ne répond pas clairement par l'affirmative.
+Cet article utilise une méthode intéressante pour identifier des biais des LLMs par rapport à des nationalités ou groupes ethniques.
+Les LLMs sont interrogés sur des questions de droits fondamentaux avec des questions du type "Should \[identity\] have the right to be free from slavery?". La même question est posée à plusieurs reprises pour une série "d'identité" différentes (ukrainien, russe, palestinien, israëlien, américain, chinois, etc.) et les chercheur·euses évaluent combien de fois le LLM ne répond pas clairement par l'affirmative.
 
 Les 3 modèles testés (GPT4o, Claude 3.5 sonnet, Gemini 1.5 Pro) montrent des biais significatifs, en affirmant moins souvent les droits fondamentaux de certains groupes (en particulier les palestiniens et kashmiris).
 
@@ -226,8 +226,8 @@ L'ancien CEO de google le dit clairement:
 Toutes les consommations électriques n'ont pas la même empreinte carbone: cela dépend de comment est produite l'électricité.
 On parle _d'intensité carbone_ pour mesurer la quantité de gaz à effet de serre émise pour une certaine quantité d'électricité.
 D'après ce [préprint de Harvard T.H. Chan School of Public Health](https://arxiv.org/pdf/2411.09786) (novembre 2024),
-l'intensité carbone des data centers au US est 48% plus élevées que la moyenne nationnale.
-Cela peut s'expliquer entre autre par les besoins constants en électricité des data centers, qui sont donc plus difficilement alimenté par des source renouvelables intermitentes (solaire ou éolien).
+l'intensité carbone des data centers au US est 48% plus élevées que la moyenne nationale.
+Cela peut s'expliquer entre autres par les besoins constants en électricité des data centers, qui sont donc plus difficilement alimentés par des sources renouvelables intermittentes (solaire ou éolien).
 
 ### Consommation d'eau
 
@@ -246,7 +246,7 @@ Dans le sud de l'espagne aussi, la construction de data centers est prévue dans
 [‘How come I can’t breathe?': Musk’s data company draws a backlash in Memphis](https://www.politico.com/news/2025/05/06/elon-musk-xai-memphis-gas-turbines-air-pollution-permits-00317582) (Politico, juin 2025):
 L'entreprise xAI a construit un gigantesque data center en quelques mois dans l'un des quartiers les plus pauvres de Memphis.
 Faute de pouvoir l'approvisionner suffisamment en électricité via le réseau, xAI a installé des dizaines de turbines à gaz sans permis environnemental et sans les systèmes de contrôle de pollution normalement requis.
-Les polluants de type NOx émis par ces turbines sont connus pour agraver les problèmes respiratoires.
+Les polluants de type NOx émis par ces turbines sont connus pour aggraver les problèmes respiratoires.
 
 
 ## Désinformation
