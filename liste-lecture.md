@@ -295,6 +295,9 @@ Clearview AI est une des entreprises pionnières dans la reconnaissance faciale 
 Leur outil est utilisé entre autres par l'administration en charge de l'immigration aux États-Unis.
 Mother Jones offre une longue description de [l'histoire de cette entreprise et de l'idéologie raciste de ses fondateurs](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/) (avril 2025).
 
+[Computer-vision research powers surveillance technology](https://www.nature.com/articles/s41586-025-08972-6) (Nature, juin 2025):
+La grande majorité des publications scientifiques dans le domaine de la reconnaissance d'image se concentre sur la détection de personnes ou de parties du corps (comme le visage). Une part de plus en plus importante de ce domaine de recherche sert, directement ou indirectement, à l'industrie de la surveillance.
+
 
 ## Sécurité & Alignement
 Quand les développeurs d'IA parlent des risques liés à l'IA, iels parlent souvent de ce qu'on appelle le problème "d'alignement".
