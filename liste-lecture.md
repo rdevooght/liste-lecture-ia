@@ -142,10 +142,11 @@ Dans une lettre au parlement britannique, OpenAI déclare "it would be impossibl
 En s'adressant au gouvernement américain, OpenAI et Google demandent de légiférer pour les laisser ignorer les droits d'auteur des données d'entraînement.
 Leur argument: les chinois vont le faire, alors si on ne veut pas se faire dépasser, on doit le faire aussi ([The Verge](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception), mars 2025).
 
-
-[Every AI Copyright Lawsuit in the US](https://www.wired.com/story/ai-copyright-case-tracker/) (The Verge, décembre 2024)
-
-![Flowchart résumant les plaintifs et les accusés des différents procès liés à l'IA aux US. Ces procès sont listés dans l'article de The Verge ci-dessus](static/lawsuits-US.png)
+De nombreux procès sont en cours ([une liste est disponible ici](https://aiwatch.dog/lawsuits)).
+Un des premiers jugements concerne Bartz v. Anthropic.
+Le juge estime que l'utilisation de livres pour l'entrainement de des LLMs est autorisée ("fair use" dans le droit américain),
+mais que le piratage afin de créer une bibliothèque servant à cet entrainement est illégal.
+Anthropic ayant téléchargé au moins 7 millions de livres de manière illégale, un nouveau procès sera tenu pour déterminer la pénalité qui incombera à Anthropic (source: [Reuters](https://www.reuters.com/legal/litigation/anthropic-wins-key-ruling-ai-authors-copyright-lawsuit-2025-06-24/), juin 2025).
 
 Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les développeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
 Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
