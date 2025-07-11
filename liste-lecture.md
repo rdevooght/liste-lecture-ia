@@ -170,6 +170,8 @@ Cette question a une grande importance, les IA génératives peuvent générer d
 
 Pour l'instant, aux US, la décision des juges est que les contenus générés par de l'IA ne sont pas protégés par un copyright ([Reuters](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/), mars 2025)
 
+Au Danemark, le gouvernement envisage de donner aux personnes un copyright sur leur apparence et leur voix afin de leur donner un recours légal contre les deepfakes ([The Guardian](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence), juin 2025).
+
 ### Mais aussi...
 
 [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images) (Techcrunch, mars 2025):
