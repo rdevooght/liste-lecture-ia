@@ -223,7 +223,8 @@ Les data centers semblent créer des distorsions sur le réseau électrique envi
 Ce ne sont pas les impacts environnementaux qui vont freiner les géants de l'IA.
 L'ancien CEO de google le dit clairement:
 "We're not going to hit the climate goals anyway because we're not organized to do it [...] I'd rather bet on AI solving the problem, than constraining it and having the problem."
-(Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024)
+(Eric Schmidt, cité depuis [Mashable](https://mashable.com/article/former-google-ceo-invest-ai-despite-climate-concerns), octobre 2024).
+De son côté, le CEO d'OpenAI considère que dans le future une part "significative" de l'électricité mondiale devrait être consacrée à l'IA ([AMD AI Keynote](https://www.youtube.com/watch?v=5dmFa9iXPWI&t=7842s), juin 2025).
 
 [EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator) propose d'estimer la consommation énergétique d'une requête à un LLM. Une requête typique à ChatGPT causerait une consommation électrique de l'ordre de 30Wh, ce qui est similaire à utiliser un micro-onde ou un grille-pain pendant une à deux minutes. [Epoch AI](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use) donne une autre estimation, environ 100 fois plus faible.
 
