@@ -147,6 +147,7 @@ Un des premiers jugements concerne Bartz v. Anthropic.
 Le juge estime que l'utilisation de livres pour l'entrainement de des LLMs est autorisée ("fair use" dans le droit américain),
 mais que le piratage afin de créer une bibliothèque servant à cet entrainement est illégal.
 Anthropic ayant téléchargé au moins 7 millions de livres de manière illégale, un nouveau procès sera tenu pour déterminer la pénalité qui incombera à Anthropic (source: [Reuters](https://www.reuters.com/legal/litigation/anthropic-wins-key-ruling-ai-authors-copyright-lawsuit-2025-06-24/), juin 2025).
+Un jugement similaire a été rendu dans le cas de [Kadrey v. Meta](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/) (Ars Technica, juin 2025).
 
 Il existe un standard pour interdire l'accès à son site web aux IA, mais il semble peu respecté par les développeurs de LLMs ([Tow Center for Digital Journalism](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)).
 Il est cependant difficile de prouver qu'un LLM est entrainé sur des sites qui en interdisent l'accès, car même si le LLM reproduit un contenu "interdit", ce contenu pourrait avoir été récupéré via des copies sur d'autres sites.
