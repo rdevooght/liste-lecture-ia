@@ -64,6 +64,9 @@ Les LLMs sont interrogés sur des questions de droits fondamentaux avec des ques
 
 Les 3 modèles testés (GPT4o, Claude 3.5 sonnet, Gemini 1.5 Pro) montrent des biais significatifs, en affirmant moins souvent les droits fondamentaux de certains groupes (en particulier les palestiniens et kashmiris).
 
+[Demographic bias of expert-level vision-language foundation models in medical imaging](Science Advances, mars 2025):
+Deux des modèles jugés les plus performants pour l'analyse d'imagerie médicale échouent plus souvent à détecter les maladies chez les femmes et les patients noirs.
+
 ### Hallucinations
 
 Les LLMs produisent du texte mot par mot, en associant à chaque mot une probabilité d'apparaitre après les mots précédents.
